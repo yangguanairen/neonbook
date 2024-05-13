@@ -11,9 +11,6 @@ Component({
     inputText: ""
   },
   methods: {
-    onLoad: function() {
-      // this.readData()
-    },
     onReady: function() {
       this.readData()
     },
@@ -23,7 +20,6 @@ Component({
         isShowPopup: "block", 
         selectItem: event.currentTarget.dataset.data
       })
-      console.log(data)
     },
     closePop() {
       this.setData({

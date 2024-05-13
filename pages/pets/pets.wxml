@@ -1,0 +1,31 @@
+<!--pages/pets/pets.wxml-->
+<navigation-bar title="宠物" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+
+<view class="popupBg" style="display: {{isShowPopup}};" bindtap="closePop">
+  <view class="popup">
+    <view class="popupContent">
+      <image class="popupImg" src="{{selectItem.url}}" mode="aspectFit"/>
+      <view class="popupTitle">{{selectItem.title}}</view>
+      <view class="popupLine"></view>
+      <view class="popupDes">{{selectItem.des}}</view>
+      <view class="popupDes">生命值: {{selectItem.vitality}}</view>
+      <view class="popupDes">获取方式: {{selectItem.method}}</view>
+    </view>
+  </view>
+</view>
+<view class="searchView">
+  <view class="searchBg">
+    <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
+    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="宠物名称" />
+    <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
+  </view>
+</view>
+<scroll-view class="scroll" scroll-y type="custom"  bounces="{{false}}" enhanced="{{true}}">
+  <grid-view class="grid" cross-axis-count="3" main-axis-gap="8"
+  cross-axis-gap="8">
+    <view class="item" wx:for="{{showList}}" data-data="{{item}}" bind:tap="onTap">
+      <image class="item-icon" src="{{item.url}}"  mode="widthFix"/>
+      <text class="item-title">{{item.title}}</text>
+    </view>
+  </grid-view>
+</scroll-view>

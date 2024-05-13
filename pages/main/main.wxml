@@ -1,14 +1,7 @@
 <!--pages/main/main.wxml-->
 <navigation-bar title="Neon图鉴" back="{{false}}" color="black" background="#fef9e3"></navigation-bar>
-
-
-
 <scroll-view class="grid" type="custom">
   <grid-view cross-axis-count="3" cross-axis-gap="8" main-axis-gap="8">
-    <view class="item">
-      <image class="itemImg" style="background-color: #c4e1c5;" />
-      <text class="itemTitle">角色</text>
-    </view>
     <view class="item">
       <image class="itemImg" bind:tap="gotoArms" style="background-color: #c4e1c5;" />
       <text class="itemTitle">武器</text>
@@ -18,12 +11,8 @@
       <text class="itemTitle">道具</text>
     </view>
     <view class="item">
-      <image class="itemImg" style="background-color: #c4e1c5;" />
+      <image class="itemImg" bind:tap="gotoPets" style="background-color: #c4e1c5;" />
       <text class="itemTitle">宠物</text>
-    </view>
-    <view class="item">
-      <image class="itemImg" style="background-color: #c4e1c5;" />
-      <text class="itemTitle">怪物</text>
     </view>
     <view class="item">
       <image class="itemImg" style="background-color: #c4e1c5;" />

@@ -1,630 +1,630 @@
 [
-    {
-        "title": "命运",
-        "desList": [
-            [
-                "• 一切都取决于你，或者是运气",
-                "•【主动】随机改变武器属性"
-            ]
-        ],
-        "gifName": "weapon_1.gif"
-    },
-    {
-        "title": "哨兵",
-        "desList": [
-            [
-                "• 牺牲了一些特性，增加了追踪模块。",
-                "•【主动+被动】可以储存红心并扔出"
-            ],
-            [
-                "• 增加了追踪模块，但是牺牲了一些特性。",
-                "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_2.gif"
-    },
-    {
-        "title": "空气枪",
-        "desList": [
-            [
-                "• 如此轻盈，仿佛并不存在。",
-                "•【主动】在空中使用可以减慢下落速度。无消耗。"
-            ]
-        ],
-        "gifName": "weapon_3.gif"
-    },
-    {
-        "title": "渡鸦",
-        "desList": [
-            [
-                "• 黑暗中的低语。",
-                "•【主动】产生一次自爆。消耗半个红心和1水晶。"
-            ]
-        ],
-        "gifName": "weapon_4.gif"
-    },
-    {
-        "title": "黑寡妇",
-        "desList": [
-            [
-                "• 屏住呼吸。",
-                "•【主动】向前翻滚一小段距离。无消耗。"
-            ]
-        ],
-        "gifName": "weapon_5.gif"
-    },
-    {
-        "title": "黑暗射线",
-        "desList": [
-            [
-                "• 来自深渊的凝视。",
-                "•【主动】肃静！清楚范围内子弹，并造成伤害消耗1炸弹和1水晶。"
-            ],
-            [
-                "• 来自深渊的凝视。",
-                "•【主动】向前瞬移一小段距离，无消耗。"
-            ]
-        ],
-        "gifName": "weapon_6.gif"
-    },
-    {
-        "title": "毁灭者",
-        "desList": [
-            [
-                "• 来自地狱的尖叫",
-                "•【被动】消灭敌人有概率获得愤怒精灵。\n•【主动】储存愤怒精灵，使用后释放它们，消耗1水晶。（武器等级越高容量越大）。"
-            ]
-        ],
-        "gifName": "weapon_7.gif"
-    },
-    {
-        "title": "饥荒",
-        "desList": [
-            [
-                "• 直面你的恐惧！",
-                "•【主动】获得一个不会孵化的银弹（上限为武器等级）。消耗3水晶。"
-            ],
-            [
-                "• 直面你的恐惧！",
-                "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
-            ],
-            [
-                "• 直面你的恐惧！",
-                "•【主动】召唤一个木桶。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_8.gif"
-    },
-    {
-        "title": "火吻",
-        "desList": [
-            [
-                "• 你什么都不懂。",
-                "•【被动】红心越多，你发射的子弹数量越多。"
-            ]
-        ],
-        "gifName": "weapon_9.gif"
-    },
-    {
-        "title": "熔炉",
-        "desList": [
-            [
-                "• 耐心也是一种武器。",
-                "•【主动】你感觉充满了力量！可以把木桶和箱子举起来！无消耗。"
-            ]
-        ],
-        "gifName": "weapon_10.gif"
-    },
-    {
-        "title": "霜火",
-        "desList": [
-            [
-                "• 颤抖吧！",
-                "•【主动】 蓄力投掷出冰炸弹。"
-            ]
-        ],
-        "gifName": "weapon_11.gif"
-    },
-    {
-        "title": "巨兽",
-        "desList": [
-            [
-                "• 如果你无法驾驭这种力量，就会被它吞噬。",
-                "• 无技能"
-            ]
-        ],
-        "gifName": "weapon_12.gif"
-    },
-    {
-        "title": "金色波纹",
-        "desList": [
-            [
-                "• 善意的谎言。",
-                "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
-            ]
-        ],
-        "gifName": "weapon_13.gif"
-    },
-    {
-        "title": "黄金萨姆",
-        "desList": [
-            [
-                "• 火力比准头更重要！",
-                "•【主动】怪物死亡后获得红包，使用后根据红包数量获得金币奖励。（武器等级越高，能获得的信封越多）。消耗1水晶。"
-            ]
-        ],
-        "gifName": "weapon_14.gif"
-    },
-    {
-        "title": "守护者",
-        "desList": [
-            [
-                "• 祝你好梦！",
-                "•【被动】消灭敌人有概率获得守护精灵。\n•【主动】储存防护精灵，使用后释放精灵，消耗1水晶。（武器等级越高容量越大）。"
-            ]
-        ],
-        "gifName": "weapon_15.gif"
-    },
-    {
-        "title": "鹰眼",
-        "desList": [
-            [
-                "• 我在注视着!",
-                "•【被动】被子弹命中的敌人会被标记。\n•【主动】玩家可以两颗水晶引爆它们，造成高额伤害。"
-            ]
-        ],
-        "gifName": "weapon_16.gif"
-    },
-    {
-        "title": "懒洋洋",
-        "desList": [
-            [
-                "• 到处都是鱼骨头。",
-                "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
-            ]
-        ],
-        "gifName": "weapon_17.gif"
-    },
-    {
-        "title": "审判",
-        "desList": [
-            [
-                "• 迎接正义的制裁吧!",
-                "•【主动】获得一个随机炸弹.消耗3颗水晶"
-            ],
-            [
-                "• 迎接正义的制裁吧!",
-                "•【主动】获得一个钥匙.消耗3颗水晶."
-            ]
-        ],
-        "gifName": "weapon_18.gif"
-    },
-    {
-        "title": "钥匙枪",
-        "desList": [
-            [
-                "• 蓄力发射一枚金钥匙！可以打开所有的锁！",
-                "• 无技能"
-            ]
-        ],
-        "gifName": "weapon_19.gif"
-    },
-    {
-        "title": "光之舞",
-        "desList": [
-            [
-                "• 战场中的狂舞者。",
-                "•【被动】这个武器造成近战伤害。\n•【主动】纯净之光！使用后暂时性的免疫伤害。消耗2水晶。"
-            ],
-            [
-                "• 战场中的狂舞者。",
-                "•【被动】这个武器造成近战伤害。\n•【主动】打开房间内所有上锁的宝箱和门，消耗3水晶。"
-            ],
-            [
-                "• 释放你的潜能。",
-                "•【被动】这个武器造成近战伤害。\n•【主动】在天空中追寻浪漫，无消耗。"
-            ]
-        ],
-        "gifName": "weapon_20.gif"
-    },
-    {
-        "title": "摇篮曲",
-        "desList": [
-            [
-                "• 祝你好梦。",
-                "•【主动】你的子弹可以拾取掉落物(除了武器)。"
-            ],
-            [
-                "• 祝你好梦。",
-                "•【主动】获得一个不会孵化的银蛋(上限为武器等级)。"
-            ]
-        ],
-        "gifName": "weapon_21.gif"
-    },
-    {
-        "title": "信使",
-        "desList": [
-            [
-                "• 传递不灭的热情。",
-                "•【被动】子弹击中水晶会产生爆炸。\n•【主动】放置一个水晶，消耗2水晶。"
-            ],
-            [
-                "• 传递不灭的热情。",
-                "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_22.gif"
-    },
-    {
-        "title": "流星",
-        "desList": [
-            [
-                "• 天堂中的眼泪。",
-                "• 无技能"
-            ],
-            [
-                "• 天堂中的眼泪。",
-                "•【主动】可以使用此技能开锁，但是会爆炸伤害自己。无消耗。"
-            ]
-        ],
-        "gifName": "weapon_23.gif"
-    },
-    {
-        "title": "星云",
-        "desList": [
-            [
-                "• 有概率发射激光。",
-                "•【主动】掉落随机掉落物。消耗1水晶和20金币。"
-            ]
-        ],
-        "gifName": "weapon_24.gif"
-    },
-    {
-        "title": "噪波",
-        "desList": [
-            [
-                "• 往日的理想。",
-                "•【主动】不是所有人都能买得起！花费25金币和一个水晶获得一个蛋。"
-            ],
-            [
-                "• 往日的理想。",
-                "•【主动】召唤一个梯子。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_25.gif"
-    },
-    {
-        "title": "旅客",
-        "desList": [
-            [
-                "• 无忧无虑的时光。",
-                "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
-            ]
-        ],
-        "gifName": "weapon_26.gif"
-    },
-    {
-        "title": "幻痛",
-        "desList": [
-            [
-                "• 一切都慢下来了。",
-                "•【主动】时间减慢，无消耗。"
-            ]
-        ],
-        "gifName": "weapon_27.gif"
-    },
-    {
-        "title": "玩具枪",
-        "desList": [
-            [
-                "• 祝你玩得开心。",
-                "•【主动】刷新当前房间内所有未打开的宝箱。消耗2水晶。"
-            ],
-            [
-                "• 祝你玩得开心。",
-                "•【主动】刷新当前房间内的所有道具和掉落物。消耗5水晶。"
-            ],
-            [
-                "• 祝你玩得开心。",
-                "•【主动】把当前房间内的所有道具置换成数个掉落物。消耗3水晶。"
-            ]
-        ],
-        "gifName": "weapon_28.gif"
-    },
-    {
-        "title": "彩虹",
-        "desList": [
-            [
-                "• 让世界充满色彩。",
-                "•【主动】掉落随机掉落物。消耗1水晶和20金币。"
-            ],
-            [
-                "• 让世界充满色彩。",
-                "•【被动】你的蛋永远不会孵化。"
-            ]
-        ],
-        "gifName": "weapon_29.gif"
-    },
-    {
-        "title": "反叛者",
-        "desList": [
-            [
-                "• 听从内心的呼唤。",
-                "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_30.gif"
-    },
-    {
-        "title": "红龙",
-        "desList": [
-            [
-                "• 威力巨大的终极兵器，毁灭一切吧。",
-                "• 无技能"
-            ]
-        ],
-        "gifName": "weapon_31.gif"
-    },
-    {
-        "title": "银月",
-        "desList": [
-            [
-                "• 无法描述的神秘武器。",
-                "•【主动】打开房间内所有上锁的宝箱和门，消耗3水晶。"
-            ],
-            [
-                "• 异空间的神秘武器。",
-                "•【主动】立即下坠，造成冲击伤害。无消耗。"
-            ]
-        ],
-        "gifName": "weapon_33.gif"
-    },
-    {
-        "title": "欢乐颂",
-        "desList": [
-            [
-                "• 最重要的是开心。",
-                "•【主动】在天空中追寻浪漫，无消耗。"
-            ],
-            [
-                "• 最重要的是开心。",
-                "•【主动】立即孵化一个蛋。消耗2水晶。"
-            ],
-            [
-                "• 最重要的是开心。",
-                "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶。"
-            ]
-        ],
-        "gifName": "weapon_34.gif"
-    },
-    {
-        "title": "灵魂使者",
-        "desList": [
-            [
-                "• 释放你的潜能",
-                "•【被动】这个武器造成近战伤害\n•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_35.gif"
-    },
-    {
-        "title": "星爆",
-        "desList": [
-            [
-                "• 来自先遣队科技的结晶。",
-                "• 无技能"
-            ]
-        ],
-        "gifName": "weapon_36.gif"
-    },
-    {
-        "title": "夏天",
-        "desList": [
-            [
-                "• 来一首美妙的民谣吧。",
-                "•【主动】召唤一个木箱。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_37.gif"
-    },
-    {
-        "title": "雨燕",
-        "desList": [
-            [
-                "• 随缘箭法。",
-                "•【主动】掉落随机金币,消耗两颗水晶和半颗红心。"
-            ],
-            [
-                "• 随缘箭法。",
-                "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶"
-            ]
-        ],
-        "gifName": "weapon_38.gif"
-    },
-    {
-        "title": "凶巴巴",
-        "desList": [
-            [
-                "• 到处都是鱼骨头。",
-                "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶"
-            ]
-        ],
-        "gifName": "weapon_39.gif"
-    },
-    {
-        "title": "第八色",
-        "desList": [
-            [
-                "• 巫师的秘密武器。",
-                "•【主动】人生就像巧克力。使用后获得随机掉落物。消耗2水晶。"
-            ],
-            [
-                "• 巫师的秘密武器。",
-                "•【被动】每次武器等级提升，增加一个额外水晶容器并回满水晶。"
-            ]
-        ],
-        "gifName": "weapon_40.gif"
-    },
-    {
-        "title": "超级炮",
-        "desList": [
-            [
-                "• 耐心一点，年轻人......你还无法完全掌握它的力量。",
-                "• 无技能"
-            ]
-        ],
-        "gifName": "weapon_41.gif"
-    },
-    {
-        "title": "雷电",
-        "desList": [
-            [
-                "• 燥起来吧！",
-                "•【被动】武器子弹对敌人造成近战伤害！"
-            ],
-            [
-                "• 燥起来吧！",
-                "•【被动】武器造成近战伤害！\n•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币。"
-            ]
-        ],
-        "gifName": "weapon_42.gif"
-    },
-    {
-        "title": "咸鱼",
-        "desList": [
-            [
-                "• 梦想还是要有的。",
-                "•【主动】从水中钓出好东西。"
-            ],
-            [
-                "• 梦想还是要有的。",
-                "•【主动】不是所有人都能买得起！花费25金币和一个水晶获得一个蛋。"
-            ]
-        ],
-        "gifName": "weapon_43.gif"
-    },
-    {
-        "title": "双子",
-        "desList": [
-            [
-                "• 据说使用了量子纠缠技术。",
-                "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶。"
-            ]
-        ],
-        "gifName": "weapon_44.gif"
-    },
-    {
-        "title": "漩涡",
-        "desList": [
-            [
-                "• 为了荣耀！为了亚特兰蒂斯！",
-                "•【主动】掉落随机金币。消耗2水晶和半个红心。"
-            ]
-        ],
-        "gifName": "weapon_45.gif"
-    },
-    {
-        "title": "妖狐",
-        "desList": [
-            [
-                "• 妩媚又致命。",
-                "•【主动】发射一个强大的能量球。敌人如果被能量球消灭会掉落水晶。消耗1水晶。"
-            ]
-        ],
-        "gifName": "weapon_46.gif"
-    },
-    {
-        "title": "恶狼",
-        "desList": [
-            [
-                "• 血债血偿！",
-                "•【被动】消灭敌人获得伤害提升，受伤后重置。"
-            ]
-        ],
-        "gifName": ""
-    },
-    {
-        "title": "矩阵",
-        "desList": [
-            [
-                "• 什么是现实？",
-                "•【主动+被动】蓄力发射一个信号弹，并使用技能传送到它的位置。"
-            ]
-        ],
-        "gifName": "weapon_47.gif"
-    },
-    {
-        "title": "憎恶",
-        "desList": [
-            [
-                "• 蓄力发射愤怒精灵。",
-                "•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
-            ],
-            [
-                "• 蓄力发射愤怒精灵。",
-                "•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币"
-            ]
-        ],
-        "gifName": "weapon_49.gif"
-    },
-    {
-        "title": "黄金精神",
-        "desList": [
-            [
-                "• 人类的赞歌是勇气的赞歌！",
-                "•【被动】武器造成近战伤害！\n•【主动】欧拉欧拉欧拉！（一段时间内增加子弹数量，无消耗"
-            ]
-        ],
-        "gifName": "weapon_50.gif"
-    },
-    {
-        "title": "新人类",
-        "desList": [
-            [
-                "• 左边的弹幕太薄了！你在干嘛！",
-                "•【主动】放出一组浮游炮！"
-            ]
-        ],
-        "gifName": "weapon_51.gif"
-    },
-    {
-        "title": "星辰",
-        "desList": [
-            [
-                "• 微微闪烁着温暖的光芒。",
-                "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
-            ]
-        ],
-        "gifName": "weapon_52.gif"
-    },
-    {
-        "title": "老猎人",
-        "desList": [
-            [
-                "• 粉碎一切！",
-                "•【被动】武器造成近战伤害！\n•【主动】留下一片旋转电锯。消耗3水晶。"
-            ]
-        ],
-        "gifName": "weapon_53.gif"
-    },
-    {
-        "title": "白日梦",
-        "desList": [
-            [
-                "• 呼呼呼呼呼。",
-                "•【主动】让时间缓慢，无消耗。"
-            ]
-        ],
-        "gifName": "weapon_54.gif"
-    },
-    {
-        "title": "蝴蝶刀",
-        "desList": [
-            [
-                "• 迎接华丽的凋零",
-                "•【被动】武器造成近战伤害！\n•【主动】受伤或消灭怪物积攒能量，消耗能量获得一个获得一个持续数秒的一次性护盾！"
-            ]
-        ],
-        "gifName": "weapon_55.gif"
-    }
+  {
+      "title": "命运",
+      "desList": [
+          [
+              "• 一切都取决于你，或者是运气",
+              "•【主动】随机改变武器属性"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_1.gif"
+  },
+  {
+      "title": "哨兵",
+      "desList": [
+          [
+              "• 牺牲了一些特性，增加了追踪模块。",
+              "•【主动+被动】可以储存红心并扔出"
+          ],
+          [
+              "• 增加了追踪模块，但是牺牲了一些特性。",
+              "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_2.gif"
+  },
+  {
+      "title": "空气枪",
+      "desList": [
+          [
+              "• 如此轻盈，仿佛并不存在。",
+              "•【主动】在空中使用可以减慢下落速度。无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_3.gif"
+  },
+  {
+      "title": "渡鸦",
+      "desList": [
+          [
+              "• 黑暗中的低语。",
+              "•【主动】产生一次自爆。消耗半个红心和1水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_4.gif"
+  },
+  {
+      "title": "黑寡妇",
+      "desList": [
+          [
+              "• 屏住呼吸。",
+              "•【主动】向前翻滚一小段距离。无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_5.gif"
+  },
+  {
+      "title": "黑暗射线",
+      "desList": [
+          [
+              "• 来自深渊的凝视。",
+              "•【主动】肃静！清楚范围内子弹，并造成伤害消耗1炸弹和1水晶。"
+          ],
+          [
+              "• 来自深渊的凝视。",
+              "•【主动】向前瞬移一小段距离，无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_6.gif"
+  },
+  {
+      "title": "毁灭者",
+      "desList": [
+          [
+              "• 来自地狱的尖叫",
+              "•【被动】消灭敌人有概率获得愤怒精灵。\n•【主动】储存愤怒精灵，使用后释放它们，消耗1水晶。（武器等级越高容量越大）。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_7.gif"
+  },
+  {
+      "title": "饥荒",
+      "desList": [
+          [
+              "• 直面你的恐惧！",
+              "•【主动】获得一个不会孵化的银弹（上限为武器等级）。消耗3水晶。"
+          ],
+          [
+              "• 直面你的恐惧！",
+              "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
+          ],
+          [
+              "• 直面你的恐惧！",
+              "•【主动】召唤一个木桶。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_8.gif"
+  },
+  {
+      "title": "火吻",
+      "desList": [
+          [
+              "• 你什么都不懂。",
+              "•【被动】红心越多，你发射的子弹数量越多。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_9.gif"
+  },
+  {
+      "title": "熔炉",
+      "desList": [
+          [
+              "• 耐心也是一种武器。",
+              "•【主动】你感觉充满了力量！可以把木桶和箱子举起来！无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_10.gif"
+  },
+  {
+      "title": "霜火",
+      "desList": [
+          [
+              "• 颤抖吧！",
+              "•【主动】 蓄力投掷出冰炸弹。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_11.gif"
+  },
+  {
+      "title": "巨兽",
+      "desList": [
+          [
+              "• 如果你无法驾驭这种力量，就会被它吞噬。",
+              "• 无技能"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_12.gif"
+  },
+  {
+      "title": "金色波纹",
+      "desList": [
+          [
+              "• 善意的谎言。",
+              "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_13.gif"
+  },
+  {
+      "title": "黄金萨姆",
+      "desList": [
+          [
+              "• 火力比准头更重要！",
+              "•【主动】怪物死亡后获得红包，使用后根据红包数量获得金币奖励。（武器等级越高，能获得的信封越多）。消耗1水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_14.gif"
+  },
+  {
+      "title": "守护者",
+      "desList": [
+          [
+              "• 祝你好梦！",
+              "•【被动】消灭敌人有概率获得守护精灵。\n•【主动】储存防护精灵，使用后释放精灵，消耗1水晶。（武器等级越高容量越大）。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_15.gif"
+  },
+  {
+      "title": "鹰眼",
+      "desList": [
+          [
+              "• 我在注视着!",
+              "•【被动】被子弹命中的敌人会被标记。\n•【主动】玩家可以两颗水晶引爆它们，造成高额伤害。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_16.gif"
+  },
+  {
+      "title": "懒洋洋",
+      "desList": [
+          [
+              "• 到处都是鱼骨头。",
+              "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_17.gif"
+  },
+  {
+      "title": "审判",
+      "desList": [
+          [
+              "• 迎接正义的制裁吧!",
+              "•【主动】获得一个随机炸弹.消耗3颗水晶"
+          ],
+          [
+              "• 迎接正义的制裁吧!",
+              "•【主动】获得一个钥匙.消耗3颗水晶."
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_18.gif"
+  },
+  {
+      "title": "钥匙枪",
+      "desList": [
+          [
+              "• 蓄力发射一枚金钥匙！可以打开所有的锁！",
+              "• 无技能"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_19.gif"
+  },
+  {
+      "title": "光之舞",
+      "desList": [
+          [
+              "• 战场中的狂舞者。",
+              "•【被动】这个武器造成近战伤害。\n•【主动】纯净之光！使用后暂时性的免疫伤害。消耗2水晶。"
+          ],
+          [
+              "• 战场中的狂舞者。",
+              "•【被动】这个武器造成近战伤害。\n•【主动】打开房间内所有上锁的宝箱和门，消耗3水晶。"
+          ],
+          [
+              "• 释放你的潜能。",
+              "•【被动】这个武器造成近战伤害。\n•【主动】在天空中追寻浪漫，无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_20.gif"
+  },
+  {
+      "title": "摇篮曲",
+      "desList": [
+          [
+              "• 祝你好梦。",
+              "•【主动】你的子弹可以拾取掉落物(除了武器)。"
+          ],
+          [
+              "• 祝你好梦。",
+              "•【主动】获得一个不会孵化的银蛋(上限为武器等级)。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_21.gif"
+  },
+  {
+      "title": "信使",
+      "desList": [
+          [
+              "• 传递不灭的热情。",
+              "•【被动】子弹击中水晶会产生爆炸。\n•【主动】放置一个水晶，消耗2水晶。"
+          ],
+          [
+              "• 传递不灭的热情。",
+              "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_22.gif"
+  },
+  {
+      "title": "流星",
+      "desList": [
+          [
+              "• 天堂中的眼泪。",
+              "• 无技能"
+          ],
+          [
+              "• 天堂中的眼泪。",
+              "•【主动】可以使用此技能开锁，但是会爆炸伤害自己。无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_23.gif"
+  },
+  {
+      "title": "星云",
+      "desList": [
+          [
+              "• 有概率发射激光。",
+              "•【主动】掉落随机掉落物。消耗1水晶和20金币。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_24.gif"
+  },
+  {
+      "title": "噪波",
+      "desList": [
+          [
+              "• 往日的理想。",
+              "•【主动】不是所有人都能买得起！花费25金币和一个水晶获得一个蛋。"
+          ],
+          [
+              "• 往日的理想。",
+              "•【主动】召唤一个梯子。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_25.gif"
+  },
+  {
+      "title": "旅客",
+      "desList": [
+          [
+              "• 无忧无虑的时光。",
+              "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_26.gif"
+  },
+  {
+      "title": "幻痛",
+      "desList": [
+          [
+              "• 一切都慢下来了。",
+              "•【主动】时间减慢，无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_27.gif"
+  },
+  {
+      "title": "玩具枪",
+      "desList": [
+          [
+              "• 祝你玩得开心。",
+              "•【主动】刷新当前房间内所有未打开的宝箱。消耗2水晶。"
+          ],
+          [
+              "• 祝你玩得开心。",
+              "•【主动】刷新当前房间内的所有道具和掉落物。消耗5水晶。"
+          ],
+          [
+              "• 祝你玩得开心。",
+              "•【主动】把当前房间内的所有道具置换成数个掉落物。消耗3水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_28.gif"
+  },
+  {
+      "title": "彩虹",
+      "desList": [
+          [
+              "• 让世界充满色彩。",
+              "•【主动】掉落随机掉落物。消耗1水晶和20金币。"
+          ],
+          [
+              "• 让世界充满色彩。",
+              "•【被动】你的蛋永远不会孵化。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_29.gif"
+  },
+  {
+      "title": "反叛者",
+      "desList": [
+          [
+              "• 听从内心的呼唤。",
+              "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_30.gif"
+  },
+  {
+      "title": "红龙",
+      "desList": [
+          [
+              "• 威力巨大的终极兵器，毁灭一切吧。",
+              "• 无技能"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_31.gif"
+  },
+  {
+      "title": "银月",
+      "desList": [
+          [
+              "• 无法描述的神秘武器。",
+              "•【主动】打开房间内所有上锁的宝箱和门，消耗3水晶。"
+          ],
+          [
+              "• 异空间的神秘武器。",
+              "•【主动】立即下坠，造成冲击伤害。无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_33.gif"
+  },
+  {
+      "title": "欢乐颂",
+      "desList": [
+          [
+              "• 最重要的是开心。",
+              "•【主动】在天空中追寻浪漫，无消耗。"
+          ],
+          [
+              "• 最重要的是开心。",
+              "•【主动】立即孵化一个蛋。消耗2水晶。"
+          ],
+          [
+              "• 最重要的是开心。",
+              "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_34.gif"
+  },
+  {
+      "title": "灵魂使者",
+      "desList": [
+          [
+              "• 释放你的潜能",
+              "•【被动】这个武器造成近战伤害\n•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_35.gif"
+  },
+  {
+      "title": "星爆",
+      "desList": [
+          [
+              "• 来自先遣队科技的结晶。",
+              "• 无技能"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_36.gif"
+  },
+  {
+      "title": "夏天",
+      "desList": [
+          [
+              "• 来一首美妙的民谣吧。",
+              "•【主动】召唤一个木箱。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_37.gif"
+  },
+  {
+      "title": "雨燕",
+      "desList": [
+          [
+              "• 随缘箭法。",
+              "•【主动】掉落随机金币,消耗两颗水晶和半颗红心。"
+          ],
+          [
+              "• 随缘箭法。",
+              "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_38.gif"
+  },
+  {
+      "title": "凶巴巴",
+      "desList": [
+          [
+              "• 到处都是鱼骨头。",
+              "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_39.gif"
+  },
+  {
+      "title": "第八色",
+      "desList": [
+          [
+              "• 巫师的秘密武器。",
+              "•【主动】人生就像巧克力。使用后获得随机掉落物。消耗2水晶。"
+          ],
+          [
+              "• 巫师的秘密武器。",
+              "•【被动】每次武器等级提升，增加一个额外水晶容器并回满水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_40.gif"
+  },
+  {
+      "title": "超级炮",
+      "desList": [
+          [
+              "• 耐心一点，年轻人......你还无法完全掌握它的力量。",
+              "• 无技能"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_41.gif"
+  },
+  {
+      "title": "雷电",
+      "desList": [
+          [
+              "• 燥起来吧！",
+              "•【被动】武器子弹对敌人造成近战伤害！"
+          ],
+          [
+              "• 燥起来吧！",
+              "•【被动】武器造成近战伤害！\n•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_42.gif"
+  },
+  {
+      "title": "咸鱼",
+      "desList": [
+          [
+              "• 梦想还是要有的。",
+              "•【主动】从水中钓出好东西。"
+          ],
+          [
+              "• 梦想还是要有的。",
+              "•【主动】不是所有人都能买得起！花费25金币和一个水晶获得一个蛋。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_43.gif"
+  },
+  {
+      "title": "双子",
+      "desList": [
+          [
+              "• 据说使用了量子纠缠技术。",
+              "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_44.gif"
+  },
+  {
+      "title": "漩涡",
+      "desList": [
+          [
+              "• 为了荣耀！为了亚特兰蒂斯！",
+              "•【主动】掉落随机金币。消耗2水晶和半个红心。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_45.gif"
+  },
+  {
+      "title": "妖狐",
+      "desList": [
+          [
+              "• 妩媚又致命。",
+              "•【主动】发射一个强大的能量球。敌人如果被能量球消灭会掉落水晶。消耗1水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_46.gif"
+  },
+  {
+      "title": "恶狼",
+      "desList": [
+          [
+              "• 血债血偿！",
+              "•【被动】消灭敌人获得伤害提升，受伤后重置。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/"
+  },
+  {
+      "title": "矩阵",
+      "desList": [
+          [
+              "• 什么是现实？",
+              "•【主动+被动】蓄力发射一个信号弹，并使用技能传送到它的位置。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_47.gif"
+  },
+  {
+      "title": "憎恶",
+      "desList": [
+          [
+              "• 蓄力发射愤怒精灵。",
+              "•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
+          ],
+          [
+              "• 蓄力发射愤怒精灵。",
+              "•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_49.gif"
+  },
+  {
+      "title": "黄金精神",
+      "desList": [
+          [
+              "• 人类的赞歌是勇气的赞歌！",
+              "•【被动】武器造成近战伤害！\n•【主动】欧拉欧拉欧拉！（一段时间内增加子弹数量，无消耗"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_50.gif"
+  },
+  {
+      "title": "新人类",
+      "desList": [
+          [
+              "• 左边的弹幕太薄了！你在干嘛！",
+              "•【主动】放出一组浮游炮！"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_51.gif"
+  },
+  {
+      "title": "星辰",
+      "desList": [
+          [
+              "• 微微闪烁着温暖的光芒。",
+              "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_52.gif"
+  },
+  {
+      "title": "老猎人",
+      "desList": [
+          [
+              "• 粉碎一切！",
+              "•【被动】武器造成近战伤害！\n•【主动】留下一片旋转电锯。消耗3水晶。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_53.gif"
+  },
+  {
+      "title": "白日梦",
+      "desList": [
+          [
+              "• 呼呼呼呼呼。",
+              "•【主动】让时间缓慢，无消耗。"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_54.gif"
+  },
+  {
+      "title": "蝴蝶刀",
+      "desList": [
+          [
+              "• 迎接华丽的凋零",
+              "•【被动】武器造成近战伤害！\n•【主动】受伤或消灭怪物积攒能量，消耗能量获得一个获得一个持续数秒的一次性护盾！"
+          ]
+      ],
+      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_55.gif"
+  }
 ]

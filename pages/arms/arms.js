@@ -44,23 +44,28 @@ Component({
       })
     },
     readData() {
-      try {
-        const res = fd.readFileSync('data/arms.json', 'utf8', 0)
-        var array = JSON.parse(res)
-        var finArray = array.map(item => {
-          var url = "/images/arms/" + item.title + 
-          ".png"
-          var encodeUrl = encodeURI(url)
-          return {...item, url: encodeUrl}
-        })
-        console.log(finArray.length)
-        this.setData({
-          showList: finArray,
-          list: finArray
-        })
-      } catch(e) {
-        console.error(e)
-      }
+      var self = this
+      fd.readFile({
+        filePath: 'data/arms.json', 
+        encoding: 'utf8', 
+        position: 0, 
+        success(res) {
+          var array = JSON.parse(res.data)
+          var finArray = array.map(item => {
+            var url = "/images/arms/" + item.title + ".png"
+            var encodeUrl = encodeURI(url)
+            return {...item, url: encodeUrl}
+          })
+          console.log(finArray.length)
+          self.setData({
+            showList: finArray,
+            list: finArray
+          })
+        },
+        fail(res) {
+          console.error(res)
+        }
+      })
     },
   }
 })

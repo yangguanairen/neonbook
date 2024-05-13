@@ -27,6 +27,7 @@ page {
 }
 .item-title {
   height: auto;
+  margin-left: 3vh;
 }
 .searchView {
   width: 100%;
@@ -75,7 +76,9 @@ page {
   align-items: center;
   background-color: #222222;
   border-radius: 10px;
-  border: .8px solid #EEE;
+  border-style: solid;
+  border-color: #EEE;
+  border-width: 1px;
   flex-wrap: wrap;
   padding: 2vh;
 }
@@ -93,7 +96,17 @@ page {
   margin-top: 2vh;
   margin-bottom: 2vh;
 }
-.popupDes {
+.popupDesTitle {
   width: 100%;
   color: white;
+}
+.popupEffict {
+  width: 100%;
+  color: #29fff0;
+  margin-top: 2px;
+}
+.popupSuit {
+  width: 100%;
+  color: #35ff00;
+  margin-top: 2px;
 }

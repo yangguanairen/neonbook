@@ -7,21 +7,23 @@
       <image class="popupImg" src="{{selectItem.url}}" mode="aspectFit"/>
       <view class="popupTitle">{{selectItem.title}}</view>
       <view class="popupLine"></view>
-      <view class="popupDes">{{selectItem.content}}</view>
+      <view wx:if="{{selectItem.content}}" class="popupDesTitle">• {{selectItem.content}}</view>
+      <view wx:if="{{selectItem.effect}}" class="popupEffict">• {{selectItem.effect}}</view>
+      <view wx:if="{{selectItem.suit}}" class="popupSuit">• {{selectItem.suit}}</view>
     </view>
   </view>
 </view>
 <view class="searchView">
   <view class="searchBg">
     <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
-    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="最大输入长度为10" />
+    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="道具名称" />
     <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
   </view>
 </view>
 <scroll-view class="list" bounces="{{false}}" enhanced="{{true}}" type="custom" scroll-y>
   <list-builder list="{{showList}}" child-count="{{showList.length}}" child-height="50px">
     <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
-      <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
+      <image class="item-icon" src="{{item.url}}"  mode="heightFix"/>
       <text class="item-title">{{item.title}}</text>
     </view>
   </list-builder>

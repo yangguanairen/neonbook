@@ -3,7 +3,8 @@
     "pages/main/main",
     "pages/props/props",
     "pages/arms/arms",
-    "pages/arms/detail"
+    "pages/arms/detail",
+    "pages/pets/pets"
   ],
   "window": {
     "navigationBarTextStyle": "black",
