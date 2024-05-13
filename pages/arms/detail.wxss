@@ -1,0 +1,70 @@
+/* pages/arms/detail.wxss */
+page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #272727;
+}
+.scroll {
+  padding: 2vh;
+  overflow: hidden;
+  flex: 1;
+}
+.flex {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.imageBg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 4vh;
+}
+.image {
+  width: 50%;
+}
+.titleBg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+  margin-bottom: 4vh;
+}
+.title {
+  color: white;
+  font-size: 23px;
+}
+.desBg {
+  width: 100%;
+}
+.desTitle {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  color: white;
+}
+.desContent {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  color: #35ff00;
+}
+.line {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  height: 2px;
+  background-color: white;
+}
+.gifBg {
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  width: 100%;
+  margin-top: 1vh;
+}
+.gif {
+  width: 100%;
+}

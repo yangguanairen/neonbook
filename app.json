@@ -1,6 +1,9 @@
 {
   "pages": [
-    "pages/props/props"
+    "pages/main/main",
+    "pages/props/props",
+    "pages/arms/arms",
+    "pages/arms/detail"
   ],
   "window": {
     "navigationBarTextStyle": "black",

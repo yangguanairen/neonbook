@@ -1,0 +1,25 @@
+<!--pages/arms/arms.wxml-->
+<navigation-bar title="武器" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+<view class="searchView">
+  <view class="searchBg">
+    <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
+    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="最大输入长度为10" />
+    <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
+  </view>
+</view>
+<!-- scroll-view禁用橡皮筋回弹效果
+https://developers.weixin.qq.com/community/develop/article/doc/00008863b582e0843ff0950fd66813 -->
+<scroll-view class="list" type="custom" bounces="{{false}}" enhanced="{{true}}" scroll-y>
+  <!-- <list-builder list="{{showList}}" child-count="{{showList.length}}" child-height="50px">
+    <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
+      <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
+      <text class="item-title">{{item.title}}</text>
+    </view>
+  </list-builder> -->
+  <view wx:for="{{showList}}">
+    <view class="item" data-data="{{item}}" bind:tap="onTap">
+      <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
+      <text class="item-title">{{item.title}}</text>
+    </view>
+  </view>
+</scroll-view>

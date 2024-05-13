@@ -1,0 +1,29 @@
+<!--pages/arms/detail.wxml-->
+<navigation-bar title="详情" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+
+<scroll-view class="scroll" type="custom" scroll-y>
+  <view class="flex">
+    <view class="imageBg">
+      <image class="image" src="{{arm.url}}" mode="widthFix" />
+    </view>
+    <view class="titleBg">
+      <text class="title">{{arm.title}}</text>
+    </view>
+    <view class="desBg" style="display: {{isShowDes1}};">
+      <text class="desTitle">{{arm.desList[0][0]}}</text>
+      <text class="desContent">{{arm.desList[0][1]}}</text>
+    </view>
+    <view class="desBg" style="display: {{isShowDes2}}">
+      <view class="line" />
+      <text class="desTitle">{{arm.desList[1][0]}}</text>
+      <text class="desContent">{{arm.desList[1][1]}}</text>
+    </view>
+    <view class="line" style="display: {{isShowDes3}}">
+      <text class="desTitle">{{arm.desList[2][0]}}</text>
+      <text class="desContent">{{arm.desList[2][1]}}</text>
+    </view>
+    <view class="gifBg">
+      <image class="gif" src="{{arm.gifUrl}}" mode="widthFix" />
+    </view>
+  </view>
+</scroll-view>

@@ -18,7 +18,7 @@
     <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
   </view>
 </view>
-<scroll-view class="list" type="custom" scroll-y>
+<scroll-view class="list" bounces="{{false}}" enhanced="{{true}}" type="custom" scroll-y>
   <list-builder list="{{showList}}" child-count="{{showList.length}}" child-height="50px">
     <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
       <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>

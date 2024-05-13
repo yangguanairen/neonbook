@@ -1,0 +1,39 @@
+[
+  {
+      "title": "角色",
+      "targetPath": "",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  },
+  {
+      "title": "武器",
+      "targetPath": "",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  },
+  {
+      "title": "道具",
+      "targetPath": "/pages/props/props",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  },
+  {
+      "title": "宠物",
+      "targetPath": "",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  },
+  {
+      "title": "怪物",
+      "targetPath": "",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  },
+  {
+      "title": "作弊码",
+      "targetPath": "",
+      "backgroundColor": "#ffffff",
+      "iconPath": ""
+  }
+  
+]
