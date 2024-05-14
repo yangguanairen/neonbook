@@ -2,7 +2,7 @@
 <navigation-bar title="武器" back="{{true}}" color="black" background="#92d2e3"></navigation-bar>
 <view class="searchView">
   <view class="searchBg">
-    <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
+    <image class="searchIcon" src="/images/icon/search.svg"  mode="heightFix"/>
     <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="道具名称" />
     <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
   </view>

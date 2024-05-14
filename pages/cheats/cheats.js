@@ -51,7 +51,7 @@ Component({
       var query = event.detail.value
       if (query) {
         var result = this.data.list.filter(item => 
-          item.title.includes(query)
+          item.title.toLowerCase().includes(query.toLowerCase())
         )
         var finResult = []
         for (var i = 0; i < result.length; i++) {
