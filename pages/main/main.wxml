@@ -1,42 +1,46 @@
 <!--pages/main/main.wxml-->
 <navigation-bar title="Neon图鉴" back="{{false}}" color="black" background="#fef9e3"></navigation-bar>
-<scroll-view class="grid" type="custom">
-  <grid-view cross-axis-count="3" cross-axis-gap="8" main-axis-gap="8">
-    <view class="item" bind:tap="gotoArms">
-      <view class="itemImgBg">
-        <image class="itemImg" src="/images/icon/icon1.png" 
-      mode="aspectFit" />
+
+<view class="listRoot">
+  <scroll-view class="scroll" type="custom">
+    <grid-view cross-axis-count="3" cross-axis-gap="8" main-axis-gap="8">
+      <view class="item" bind:tap="gotoArms">
+        <view class="itemImgBg">
+          <image class="itemImg" src="/images/icon/icon1.png" 
+        mode="aspectFit" />
+        </view>
+        <text class="itemTitle">武器</text>
       </view>
-      <text class="itemTitle">武器</text>
-    </view>
-    <view class="item" bind:tap="gotoProps">
-      <view class="itemImgBg">
-        <image class="itemImg" src="/images/icon/icon2.png"
-      mode="aspectFit" />
+      <view class="item" bind:tap="gotoProps">
+        <view class="itemImgBg">
+          <image class="itemImg" src="/images/icon/icon2.png"
+        mode="aspectFit" />
+        </view>
+        <text class="itemTitle">道具</text>
       </view>
-      <text class="itemTitle">道具</text>
-    </view>
-    <view class="item" bind:tap="gotoPets">
-      <view class="itemImgBg">
-        <image class="itemImg" src="/images/icon/icon3.png" 
-      mode="aspectFit" />
+      <view class="item" bind:tap="gotoPets">
+        <view class="itemImgBg">
+          <image class="itemImg" src="/images/icon/icon3.png" 
+        mode="aspectFit" />
+        </view>
+        <text class="itemTitle">宠物</text>
       </view>
-      <text class="itemTitle">宠物</text>
-    </view>
-    <view class="item" bind:tap="gotoCheats">
-      <view class="itemImgBg">
-        <image class="itemImg" src="/images/icon/icon4.png" 
-      mode="aspectFit" />
+      <view class="item" bind:tap="gotoCheats">
+        <view class="itemImgBg">
+          <image class="itemImg" src="/images/icon/icon4.png" 
+        mode="aspectFit" />
+        </view>
+        <text class="itemTitle">作弊码</text>
       </view>
-      <text class="itemTitle">作弊码</text>
-    </view>
-    <view class="item">
-      <view class="itemImgBg">
-        <image class="itemImg" src="/images/icon/icon5.png" 
-      mode="aspectFit" />
+      <view class="item">
+        <view class="itemImgBg">
+          <image class="itemImg" src="/images/icon/icon5.png" 
+        mode="aspectFit" />
+        </view>
+        <text class="itemTitle">套装</text>
       </view>
-      <text class="itemTitle">套装</text>
-    </view>
-  </grid-view>
-</scroll-view>
+    </grid-view>
+  </scroll-view>
+</view>
+
 
