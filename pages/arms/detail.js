@@ -18,9 +18,6 @@ Component({
       var self = this
       wx.downloadFile({
         url: url,
-        header: {
-          "Accept-Encoding": "gzip, deflate, br, zstd"
-        },
         success (res) {
           if (res.statusCode === 200) {
             self.setData({gifPath: res.tempFilePath})

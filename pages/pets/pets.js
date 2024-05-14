@@ -58,20 +58,19 @@ Component({
         filePath: 'data/pets.json', 
         encoding: 'utf8', 
         position: 0, 
-        success(res) {
+        success: res => {
           var array = JSON.parse(res.data)
-          var finArray = array.map(item => {
-            var url = "/images/pets/" + item.title + ".png"
-            var encodeUrl = encodeURI(url)
-            return {...item, url: encodeUrl}
-          })
-          console.log(finArray.length)
+          for (var i = 0; i < array.length; i++) {
+            var item = array[i]
+            item.url = encodeURI("/images/pets/" + item.title + ".png")
+          }
+          console.log(array.length)
           self.setData({
-            showList: finArray,
-            list: finArray
+            showList: array,
+            list: array
           })
         },
-        fail(res) {
+        fail: res => {
           console.error(res)
         }
       })

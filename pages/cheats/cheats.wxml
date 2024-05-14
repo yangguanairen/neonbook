@@ -3,7 +3,7 @@
 <view class="searchView">
   <view class="searchBg">
     <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
-    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="道具名称" />
+    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="名称" />
     <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
   </view>
 </view>

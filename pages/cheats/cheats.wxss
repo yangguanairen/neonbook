@@ -3,11 +3,11 @@ page {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-color: #323232;
+  background-color: #454545;
 }
 
 .grid {
-  padding: 4vh;
+  padding: 2vh;
   overflow: hidden;
   flex: 1;
 }
@@ -15,29 +15,21 @@ page {
   background-color: #135264;
   display: flex;
   flex-wrap: wrap;
+  padding: 8px;
 }
 .itemTitle {
   width: 100%;
   color: #3591a2;
   font-size: 20px;
   text-align: center;
-  margin-top: 8px;
-  margin-left: 8px;
-  margin-right: 8px;
 }
 .itemDes {
-  margin-bottom: 8px;
-  margin-left: 8px;
-  margin-right: 8px;
   width: 100%;
   text-align: center;
   color: white;
   font-size: 10px;
 }
 .itemDesOther {
-  margin-bottom: 8px;
-  margin-left: 8px;
-  margin-right: 8px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -140,7 +132,7 @@ page {
 .searchView {
   width: 100%;
   padding-left: 2vh;
-  padding-top: 1vh;
+  padding-top: 2vh;
   padding-right: 2vh;
   padding-bottom: 1vh;
 }

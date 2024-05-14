@@ -1,5 +1,5 @@
 <!--pages/arms/arms.wxml-->
-<navigation-bar title="武器" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+<navigation-bar title="武器" back="{{true}}" color="black" background="#92d2e3"></navigation-bar>
 <view class="searchView">
   <view class="searchBg">
     <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>

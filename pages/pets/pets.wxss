@@ -3,10 +3,10 @@ page {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-color: #fef9e3;
+  background-color: #92d2e3;
 }
 .scroll {
-  padding: 4vh;
+  padding: 2vh;
   overflow: hidden;
   flex: 1;
 }

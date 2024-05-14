@@ -1,5 +1,5 @@
 <!--pages/pets/pets.wxml-->
-<navigation-bar title="宠物" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+<navigation-bar title="宠物" back="{{true}}" color="black" background="#92d2e3"></navigation-bar>
 
 <view class="popupBg" style="display: {{isShowPopup}};" bindtap="closePop">
   <view class="popup">
@@ -8,8 +8,8 @@
       <view class="popupTitle">{{selectItem.title}}</view>
       <view class="popupLine"></view>
       <view class="popupDes">{{selectItem.des}}</view>
-      <view class="popupDes">生命值: {{selectItem.vitality}}</view>
-      <view class="popupDes">获取方式: {{selectItem.method}}</view>
+      <view wx:if="{{selectItem.vitality}}" class="popupDes">生命值: {{selectItem.vitality}}</view>
+      <view wx:if="{{selectItem.method}}" class="popupDes">获取方式: {{selectItem.method}}</view>
     </view>
   </view>
 </view>
