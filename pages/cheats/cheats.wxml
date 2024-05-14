@@ -1,0 +1,63 @@
+<!--pages/cheats/cheats.wxml-->
+<navigation-bar title="作弊码" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+<view class="searchView">
+  <view class="searchBg">
+    <image class="searchIcon" src="/images/icon/search.svg"  mode="aspectFit"/>
+    <input class="searchInput" value="{{inputText}}" maxlength="10" bindinput="search" placeholder="道具名称" />
+    <image class="searchIcon" bind:tap="clear" src="/images/icon/clear.svg" style="display: {{isShowClear}};"  mode="aspectFit"/>
+  </view>
+</view>
+<view class="popupBg" style="display: {{isShowArmPop}};" bind:tap="closeArmPop">
+  <view class="popup">
+    <view class="popupContent">
+      <image class="popupImg" src="{{selectArm.url}}" mode="aspectFit"/>
+      <view class="popupTitle">{{selectArm.title}}</view>
+      <view class="popupLine" />
+      <view class="armDesBg">
+        <text class="armDesTitle">{{selectArm.desList[0][0]}}</text>
+        <text class="armDesContent">{{selectArm.desList[0][1]}}</text>
+      </view>
+      <view class="armDesBg" wx:if="{{selectArm.desList[1]}}">
+        <view class="popupLine" />
+        <text class="armDesTitle">{{selectArm.desList[1][0]}}</text>
+        <text class="armDesContent">{{selectArm.desList[1][1]}}</text>
+      </view>
+      <view class="armDesBg" wx:if="{{selectArm.desList[2]}}">
+        <view class="popupLine" />
+        <text class="armDesTitle">{{selectArm.desList[2][0]}}</text>
+        <text class="armDesContent">{{selectArm.desList[2][1]}}</text>
+      </view>
+    </view>
+  </view>
+</view>
+<view class="popupBg" style="display: {{isShowPropPop}};" bindtap="closePropPop">
+  <view class="popup">
+    <view class="popupContent">
+      <image class="popupImg" src="{{selectProp.url}}" mode="aspectFit"/>
+      <view class="popupTitle">{{selectProp.title}}</view>
+      <view class="popupLine" />
+      <view wx:if="{{selectProp.content}}" class="propDesTitle">• {{selectProp.content}}</view>
+      <view wx:if="{{selectProp.effect}}" class="propEffict">• {{selectProp.effect}}</view>
+      <view wx:if="{{selectProp.suit}}" class="propSuit">• {{selectProp.suit}}</view>
+    </view>
+  </view>
+</view>
+
+<scroll-view class="grid" type="custom" scroll-y
+bounces="{{false}}" enhanced="{{true}}">
+  <grid-view cross-axis-count="2" cross-axis-gap="4" main-axis-gap="4">
+    <view wx:for="{{showList}}" style="background-color: {{item.bgColor}};" class="item"
+    data-data="{{item}}" bind:tap="onItemTap">
+      <view class="itemTitle" style="color: {{item.textColor}};">{{item.title}}</view>
+      <view wx:if="{{!item.propData && !item.armData}}" class="itemDes">{{item.des}}</view>
+      <view wx:if="{{item.propData}}" class="itemDesOther">
+        <text class="itemDesOther1">掉落</text>
+        <text class="itemDesOther2">{{item.propData.title}}</text>
+      </view>
+      <view wx:if="{{item.armData}}" class="itemDesOther">
+        <text class="itemDesOther1">掉落</text>
+        <text class="itemDesOther2">{{item.armData.title}}</text>
+      </view>
+    </view>
+  </grid-view>
+</scroll-view>

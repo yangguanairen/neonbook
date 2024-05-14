@@ -16,14 +16,12 @@ Component({
     },
     onTap(event) {
       this.setData({
-        isShow: true,
         isShowPopup: "block", 
         selectItem: event.currentTarget.dataset.data
       })
     },
     closePop() {
       this.setData({
-        isShow: false,
         isShowPopup: "none", 
         selectItem: {}
       })
@@ -44,7 +42,6 @@ Component({
           showList: this.data.list
         })
       }
-      
     },
     clear() {
       this.setData({

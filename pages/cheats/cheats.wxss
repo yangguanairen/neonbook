@@ -1,0 +1,163 @@
+/* pages/cheats/cheats.wxss */
+page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #323232;
+}
+
+.grid {
+  padding: 4vh;
+  overflow: hidden;
+  flex: 1;
+}
+.item {
+  background-color: #135264;
+  display: flex;
+  flex-wrap: wrap;
+}
+.itemTitle {
+  width: 100%;
+  color: #3591a2;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.itemDes {
+  margin-bottom: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 10px;
+}
+.itemDesOther {
+  margin-bottom: 8px;
+  margin-left: 8px;
+  margin-right: 8px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.itemDesOther1 {
+  font-size: 10px;
+  color: white;
+}
+.itemDesOther2 {
+  font-size: 10px;
+  color: #00a6d8;
+  text-decoration: underline;
+  text-decoration-color: #00a6d8;
+}
+
+
+.popupBg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup {
+  position: fixed;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.popupContent {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #222222;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #EEE;
+  border-width: 1px;
+  flex-wrap: wrap;
+  padding: 2vh;
+}
+.popupImg {
+  width: 100%;
+  height: 10vh;
+}
+.popupTitle {
+  color: white;
+}
+.popupLine {
+  background-color: white;
+  width: 100%;
+  height: 1px;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.armDesBg {
+  width: 100%;
+}
+.armDesTitle {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  color: white;
+}
+.armDesContent {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  color: #35ff00;
+}
+.armLine {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+  width: 100%;
+  height: 2px;
+  background-color: white;
+}
+
+
+
+.propDesTitle {
+  width: 100%;
+  color: white;
+}
+.propEffict {
+  width: 100%;
+  color: #29fff0;
+  margin-top: 2px;
+}
+.propSuit {
+  width: 100%;
+  color: #35ff00;
+  margin-top: 2px;
+}
+.searchView {
+  width: 100%;
+  padding-left: 2vh;
+  padding-top: 1vh;
+  padding-right: 2vh;
+  padding-bottom: 1vh;
+}
+.searchBg {
+  width: 100%;
+  border-radius: 90px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+.searchInput {
+  flex: 1;
+  margin-left: 1vh;
+  margin-right: 1vh;
+}
+.searchIcon {
+  width: 3vh;
+  height: 3vh;
+}

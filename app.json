@@ -4,7 +4,9 @@
     "pages/props/props",
     "pages/arms/arms",
     "pages/arms/detail",
-    "pages/pets/pets"
+    "pages/pets/pets",
+    "pages/cheats/cheats",
+    "pages/suits/suits"
   ],
   "window": {
     "navigationBarTextStyle": "black",

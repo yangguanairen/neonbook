@@ -2,21 +2,40 @@
 <navigation-bar title="Neon图鉴" back="{{false}}" color="black" background="#fef9e3"></navigation-bar>
 <scroll-view class="grid" type="custom">
   <grid-view cross-axis-count="3" cross-axis-gap="8" main-axis-gap="8">
-    <view class="item">
-      <image class="itemImg" bind:tap="gotoArms" style="background-color: #c4e1c5;" />
+    <view class="item" bind:tap="gotoArms">
+      <view class="itemImgBg">
+        <image class="itemImg" src="/images/icon/icon1.png" 
+      mode="aspectFit" />
+      </view>
       <text class="itemTitle">武器</text>
     </view>
     <view class="item" bind:tap="gotoProps">
-      <image class="itemImg" style="background-color: #c4e1c5;" />
+      <view class="itemImgBg">
+        <image class="itemImg" src="/images/icon/icon2.png"
+      mode="aspectFit" />
+      </view>
       <text class="itemTitle">道具</text>
     </view>
-    <view class="item">
-      <image class="itemImg" bind:tap="gotoPets" style="background-color: #c4e1c5;" />
+    <view class="item" bind:tap="gotoPets">
+      <view class="itemImgBg">
+        <image class="itemImg" src="/images/icon/icon3.png" 
+      mode="aspectFit" />
+      </view>
       <text class="itemTitle">宠物</text>
     </view>
-    <view class="item">
-      <image class="itemImg" style="background-color: #c4e1c5;" />
+    <view class="item" bind:tap="gotoCheats">
+      <view class="itemImgBg">
+        <image class="itemImg" src="/images/icon/icon4.png" 
+      mode="aspectFit" />
+      </view>
       <text class="itemTitle">作弊码</text>
+    </view>
+    <view class="item">
+      <view class="itemImgBg">
+        <image class="itemImg" src="/images/icon/icon5.png" 
+      mode="aspectFit" />
+      </view>
+      <text class="itemTitle">套装</text>
     </view>
   </grid-view>
 </scroll-view>

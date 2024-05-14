@@ -1,0 +1,1321 @@
+[
+  {
+      "title": "MONEY01",
+      "des": "掉落1块钱"
+  },
+  {
+      "title": "MONEY05",
+      "des": "掉落5块钱"
+  },
+  {
+      "title": "MONEY10",
+      "des": "掉落10块钱"
+  },
+  {
+      "title": "MONEY50",
+      "des": "掉落50块钱"
+  },
+  {
+      "title": "HEART5",
+      "des": "掉落半颗红心"
+  },
+  {
+      "title": "HEART10",
+      "des": "掉落1颗红心"
+  },
+  {
+      "title": "SHIELD1",
+      "des": "掉落半个护盾"
+  },
+  {
+      "title": "SHIELD2",
+      "des": "掉落1个护盾"
+  },
+  {
+      "title": "TICKET01",
+      "des": "掉落1号门票"
+  },
+  {
+      "title": "TICKET02",
+      "des": "掉落2号门票"
+  },
+  {
+      "title": "MAXHEART",
+      "des": "生命值变为最大值"
+  },
+  {
+      "title": "MAXSHIELD",
+      "des": "护盾值变为最大值"
+  },
+  {
+      "title": "BOMB01",
+      "des": "获得1颗手雷"
+  },
+  {
+      "title": "BOMB02",
+      "des": "获得2颗手雷"
+  },
+  {
+      "title": "KEY01",
+      "des": "掉落1把钥匙"
+  },
+  {
+      "title": "KEY02",
+      "des": "掉落2把钥匙"
+  },
+  {
+      "title": "CRYSTAL01",
+      "des": "掉落1颗水晶"
+  },
+  {
+      "title": "CRYSTAL02",
+      "des": "掉落2颗水晶"
+  },
+  {
+      "title": "CRYSTALPACK",
+      "des": "掉落1个水晶包"
+  },
+  {
+      "title": "EGG01",
+      "des": "掉落1颗蛋"
+  },
+  {
+      "title": "SPEEDUP",
+      "des": "增加一点移速"
+  },
+  {
+      "title": "SPEEDMAX",
+      "des": "跑起来飞快"
+  },
+  {
+      "title": "JUMPHIGHER",
+      "des": "跳得高一点"
+  },
+  {
+      "title": "NOGRAVITY",
+      "des": "仿佛无重力,就像月球漫步?"
+  },
+  {
+      "title": "DMGUP",
+      "des": "增加了一点点攻击力"
+  },
+  {
+      "title": "DMGUPX2",
+      "des": "攻击力大幅提高"
+  },
+  {
+      "title": "EXTRABULLET",
+      "des": "多射出一颗子弹"
+  },
+  {
+      "title": "BULLETHELL",
+      "des": "火力全开,大幅增加弹道数"
+  },
+  {
+      "title": "RPMUP",
+      "des": "提高一点点射速"
+  },
+  {
+      "title": "RPMUPX2",
+      "des": "大幅提高射速"
+  },
+  {
+      "title": "EXTRAJUMP",
+      "des": "增加一次跳跃次数"
+  },
+  {
+      "title": "LUCKY",
+      "des": "感到非常幸运"
+  },
+  {
+      "title": "SOULBRINGNER",
+      "des": "掉落武器灵魂使者",
+      "armData": {
+          "title": "灵魂使者",
+          "desList": [
+              [
+                  "• 释放你的潜能",
+                  "•【被动】这个武器造成近战伤害\n•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "LILLABY",
+      "des": "掉落武器摇篮曲",
+      "armData": {
+          "title": "摇篮曲",
+          "desList": [
+              [
+                  "• 祝你好梦。",
+                  "•【主动】你的子弹可以拾取掉落物(除了武器)。"
+              ],
+              [
+                  "• 祝你好梦。",
+                  "•【主动】获得一个不会孵化的银蛋(上限为武器等级)。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "PLASTICGUN",
+      "des": "掉落武器玩具枪",
+      "armData": {
+          "title": "玩具枪",
+          "desList": [
+              [
+                  "• 祝你玩得开心。",
+                  "•【主动】刷新当前房间内所有未打开的宝箱。消耗2水晶。"
+              ],
+              [
+                  "• 祝你玩得开心。",
+                  "•【主动】刷新当前房间内的所有道具和掉落物。消耗5水晶。"
+              ],
+              [
+                  "• 祝你玩得开心。",
+                  "•【主动】把当前房间内的所有道具置换成数个掉落物。消耗3水晶。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "FAMINE",
+      "des": "掉落武器饥荒",
+      "armData": {
+          "title": "饥荒",
+          "desList": [
+              [
+                  "• 直面你的恐惧！",
+                  "•【主动】获得一个不会孵化的银弹（上限为武器等级）。消耗3水晶。"
+              ],
+              [
+                  "• 直面你的恐惧！",
+                  "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
+              ],
+              [
+                  "• 直面你的恐惧！",
+                  "•【主动】召唤一个木桶。消耗2水晶。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "FROSTFIRE",
+      "des": "掉落武器霜火",
+      "armData": {
+          "title": "霜火",
+          "desList": [
+              [
+                  "• 颤抖吧！",
+                  "•【主动】 蓄力投掷出冰炸弹。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "REDDROGAN",
+      "des": "掉落武器红龙",
+      "armData": {
+          "title": "红龙",
+          "desList": [
+              [
+                  "• 威力巨大的终极兵器，毁灭一切吧。",
+                  "• 无技能"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "KEYGUN",
+      "des": "掉落武器钥匙枪",
+      "armData": {
+          "title": "钥匙枪",
+          "desList": [
+              [
+                  "• 蓄力发射一枚金钥匙！可以打开所有的锁！",
+                  "• 无技能"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "AIRGUN",
+      "des": "掉落武器空气枪",
+      "armData": {
+          "title": "空气枪",
+          "desList": [
+              [
+                  "• 如此轻盈，仿佛并不存在。",
+                  "•【主动】在空中使用可以减慢下落速度。无消耗。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "SONGOFJOY",
+      "des": "掉落武器欢乐颂",
+      "armData": {
+          "title": "欢乐颂",
+          "desList": [
+              [
+                  "• 最重要的是开心。",
+                  "•【主动】在天空中追寻浪漫，无消耗。"
+              ],
+              [
+                  "• 最重要的是开心。",
+                  "•【主动】立即孵化一个蛋。消耗2水晶。"
+              ],
+              [
+                  "• 最重要的是开心。",
+                  "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶。"
+              ]
+          ]
+      }
+  },
+  {
+      "title": "FOMASK",
+      "des": "掉落禁忌面具",
+      "propData": {
+          "title": "禁忌面具",
+          "content": "",
+          "effect": "迎接第三次冲击！你获得了全方面的提升！觉醒吧！",
+          "suit": ""
+      }
+  },
+  {
+      "title": "NERVSYS",
+      "des": "掉落强化脑神经",
+      "propData": {
+          "title": "强化脑神经",
+          "content": "我是谁，我在哪，我要干啥？",
+          "effect": "提高武器伤害和移动速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "MONKHAT",
+      "des": "掉落僧帽",
+      "propData": {
+          "title": "僧帽",
+          "content": "虔诚的心可以驱走一切黑暗。",
+          "effect": "增加心之容器和水晶容器。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "SHROUD",
+      "des": "掉落木乃伊头套",
+      "propData": {
+          "title": "木乃伊头套",
+          "content": "一卷讲述着千年历史的破布。",
+          "effect": "增加水晶容器，消灭敌人有概率掉落水晶。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "BENSPO",
+      "des": "掉落弯勺子",
+      "propData": {
+          "title": "弯勺子",
+          "content": "98%...99%...",
+          "effect": "增加水晶容器，增加武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "TURBAN",
+      "des": "掉落波斯头巾",
+      "propData": {
+          "title": "波斯头巾",
+          "content": "上边沾满了风吹来的沙子。",
+          "effect": "极大的增加水晶容器。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "PERSOUP",
+      "des": "掉落胡辣汤",
+      "propData": {
+          "title": "胡辣汤",
+          "content": "虽然看起来有点奇怪，但是好喝到流泪！",
+          "effect": "增加一个红心容器。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SPACESODA",
+      "des": "掉落太空苏打",
+      "propData": {
+          "title": "太空苏打",
+          "content": "最新的太空饮品！全新口味！",
+          "effect": "增加一个红心容器，同时增加少量的武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GIANTBBQ",
+      "des": "掉落巨人烤肉",
+      "propData": {
+          "title": "巨人烤肉",
+          "content": "你觉得变强了...但是有点笨拙。",
+          "effect": "增加一个红心容器。同时增加你的武器伤害，但是降低你的射击速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SPGLASS",
+      "des": "掉落大佬墨镜",
+      "propData": {
+          "title": "大佬墨镜",
+          "content": "黑色的镜片也挡不住你犀利的眼神。",
+          "effect": "提高你的武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BEASTANMU",
+      "des": "掉落野兽护符",
+      "propData": {
+          "title": "野兽护符",
+          "content": "这个东西似乎有自己的想法。",
+          "effect": "降低武器射速，但是大幅提高你的武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "STARKMODULE",
+      "des": "掉落史塔克模块",
+      "propData": {
+          "title": "史塔克模块",
+          "content": "财富也是一种超能力。",
+          "effect": "提高你的武器伤害和子弹飞行速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GARCLIP",
+      "des": "掉落加兰德弹夹",
+      "propData": {
+          "title": "加兰德弹夹",
+          "content": "火力不够，数量来凑。",
+          "effect": "每次射击可以多发射一个子弹，并增加你的武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SLINGSHOT",
+      "des": "掉落强力弹弓",
+      "propData": {
+          "title": "强力弹弓",
+          "content": "孩子们的最爱。",
+          "effect": "每次射击可以多发射一个子弹,并增加你的武器射程。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "MADMASK",
+      "des": "掉落疯狂面具",
+      "propData": {
+          "title": "疯狂面具",
+          "content": "看起来似乎有点眼熟...",
+          "effect": "大幅提高你的射击速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HAIRDRYER",
+      "des": "掉落吹风机",
+      "propData": {
+          "title": "吹风机",
+          "content": "每次使用它的时候你都幻想着身处厦门的海边。",
+          "effect": "提高你武器的射击速度和射程。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BLUETOCOL",
+      "des": "掉落蓝色协议",
+      "propData": {
+          "title": "蓝色协议",
+          "content": "似乎和外星人有关。",
+          "effect": "增加护盾，升级你的武器。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "WADETECH",
+      "des": "掉落韦恩科技",
+      "propData": {
+          "title": "韦恩科技",
+          "content": "很容易安装和使用...",
+          "effect": "升级你的武器，并增加射击速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "LIKE",
+      "des": "掉落点赞之手",
+      "propData": {
+          "title": "点赞之手",
+          "content": "从此以后，你就是七大王国的头牌网红。",
+          "effect": "升级你的武器，并增加子弹飞行速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SUPLOGO",
+      "des": "掉落超级标志",
+      "propData": {
+          "title": "超级标志",
+          "content": "力量也意味着责任。",
+          "effect": "升级你的武器，略微增加你的跳跃高度和移动速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SEALS",
+      "des": "掉落海豹徽章",
+      "propData": {
+          "title": "海豹徽章",
+          "content": "似乎有着一段令人难忘的故事。",
+          "effect": "升级你的武器，并增加你的移动速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SMITHHAM",
+      "des": "掉落锻造锤",
+      "propData": {
+          "title": "锻造锤",
+          "content": "当，当，当。",
+          "effect": "升级你的武器，并增加武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GAPPLE",
+      "des": "掉落金苹果",
+      "propData": {
+          "title": "金苹果",
+          "content": "第一文明的遗物。",
+          "effect": "升级你的武器，并略微增加角色移动速度。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "POWERDIAMOND",
+      "des": "掉落力量宝石",
+      "propData": {
+          "title": "力量宝石",
+          "content": "它闪烁着令人敬畏的光芒。",
+          "effect": "升级你的武器，并同时增加近战伤害和武器伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "TESLACOIL",
+      "des": "掉落特斯拉电圈",
+      "propData": {
+          "title": "特斯拉电圈",
+          "content": "",
+          "effect": "会在角色周围间歇性的生成一个闪电光环，对敌人造成接触闪电伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DEMONWINGS",
+      "des": "掉落黑暗之翼",
+      "propData": {
+          "title": "黑暗之翼",
+          "content": "这点牺牲算什么！",
+          "effect": "用一个红心容器换取伤害加强和飞行能力！",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DIVINITY",
+      "des": "掉落神性",
+      "propData": {
+          "title": "神性",
+          "content": "你似乎有点明白这个世界是怎么回事了。",
+          "effect": "获得飞行能力，移动速度增加。",
+          "suit": "套装：【不朽之魂】红心容器转化为复活次数。每次复活额外掉落一个道具。"
+      }
+  },
+  {
+      "title": "GREENCAP",
+      "des": "掉落缩小帽",
+      "propData": {
+          "title": "缩小帽",
+          "content": "",
+          "effect": "一顶可以让你变小的帽子。对，是绿色的。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BIRTHCAKE",
+      "des": "掉落生日蛋糕",
+      "propData": {
+          "title": "生日蛋糕",
+          "content": "生日快乐！",
+          "effect": "你长大了（角色体型变大）！增加两个红心容器！",
+          "suit": ""
+      }
+  },
+  {
+      "title": "REDHAT",
+      "des": "掉落水管工帽",
+      "propData": {
+          "title": "水管工帽",
+          "content": "",
+          "effect": "跳跃可以对敌人造成伤害（同时免度敌人的触碰伤害）。公主在哪里？",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强"
+      }
+  },
+  {
+      "title": "EXMINE",
+      "des": "掉落弹性地雷",
+      "propData": {
+          "title": "弹性地雷",
+          "content": "",
+          "effect": "每次跳跃，都将在脚下生成一个延时地雷。是不是很带感？",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "FATALDANCE",
+      "des": "掉落御姐之舞",
+      "propData": {
+          "title": "御姐之舞",
+          "content": "让他们在仰视你的过程中消亡吧！",
+          "effect": "在空中状态可以向下发射子弹。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "GTORCH",
+      "des": "掉落金色火炬",
+      "propData": {
+          "title": "金色火炬",
+          "content": "光芒似乎很温暖。",
+          "effect": "从下层开始，每层多一个道具房间。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "LIDLESSEYE",
+      "des": "掉落魔君之眼",
+      "propData": {
+          "title": "魔君之眼",
+          "content": "它可以看到所有的一切。包括你内心的渴望和恐惧。",
+          "effect": "装备魔君之眼后地图直接全开，各种隐藏房间都会解锁，能够直接进入。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "IMMORTAL",
+      "des": "掉落不朽之心",
+      "propData": {
+          "title": "不朽之心",
+          "content": "这是一件传奇的战利品。",
+          "effect": "当你被击败后可以原地复活！（只可使用一次）...",
+          "suit": ""
+      }
+  },
+  {
+      "title": "INNEREYE",
+      "des": "掉落天眼",
+      "propData": {
+          "title": "天眼",
+          "content": "",
+          "effect": "不必拾取道具也可以预览到道具的详细信息。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DESELIXIR",
+      "des": "掉落沙漠药剂",
+      "propData": {
+          "title": "沙漠药剂",
+          "content": "一瓶神奇的药水，上边写着“不要喝我”。",
+          "effect": "拾取后角色体型缩小",
+          "suit": ""
+      }
+  },
+  {
+      "title": "COINBOMB",
+      "des": "掉落金币炸弹",
+      "propData": {
+          "title": "金币炸弹",
+          "content": "时间就是金钱，对吗。",
+          "effect": "你拾取金币会获得三倍收益！但是金币3秒之后不捡会爆炸。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "MERLORD",
+      "des": "掉落佣兵之王",
+      "propData": {
+          "title": "佣兵之王",
+          "content": "",
+          "effect": "你拥有的金币越多，你的武器伤害越高。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BATTLEPASS",
+      "des": "掉落金卡",
+      "propData": {
+          "title": "金卡",
+          "content": "付费玩家。",
+          "effect": "拥有的金币越多，你能发射的子弹数量就越多。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GBIRD",
+      "des": "掉落黄金鸟",
+      "propData": {
+          "title": "黄金鸟",
+          "content": "有钱之后，鸟叫都比之前悦耳了。",
+          "effect": "你拥有的金币越多，武器射速越快。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SPARTAN",
+      "des": "掉落斯巴达血统",
+      "propData": {
+          "title": "斯巴达血统",
+          "content": "斯巴达！！！",
+          "effect": "空的红心容器越多，你的武器伤害越高。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BERSERKER",
+      "des": "掉落狂战士之怒",
+      "propData": {
+          "title": "狂战士之怒",
+          "content": "愤怒驱使着你。",
+          "effect": "空的红心容器越多，你能发射的子弹越多。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HOWARDACTOR",
+      "des": "掉落方舟反应炉",
+      "propData": {
+          "title": "方舟反应炉",
+          "content": "创造者稍稍修改了一点宇宙的规则。",
+          "effect": "所有红心掉落转化为护盾掉落。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "MAGVORTEX",
+      "des": "掉落魔法漩涡",
+      "propData": {
+          "title": "魔法漩涡",
+          "content": "你似乎有一个天大的计划。",
+          "effect": "满水晶的时候武器伤害增加。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "CATMEDAL",
+      "des": "掉落白猫徽章",
+      "propData": {
+          "title": "白猫徽章",
+          "content": "它似乎能感应到魔法。",
+          "effect": "空的水晶容器越多，你的武器伤害越高。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SIVBROOCH",
+      "des": "掉落银色胸针",
+      "propData": {
+          "title": "银色胸针",
+          "content": "",
+          "effect": "每次捡起硬币时有几率获得钥匙。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "AMENECKLACE",
+      "des": "掉落紫水晶项链",
+      "propData": {
+          "title": "紫水晶项链",
+          "content": "",
+          "effect": "每次捡起硬币时有几率获得水晶。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "MANEKINEKO",
+      "des": "掉落招财猫",
+      "propData": {
+          "title": "招财猫",
+          "content": "喵~",
+          "effect": "拾取金币时将会获得额外收益。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HACKTOOL",
+      "des": "掉落黑客工具",
+      "propData": {
+          "title": "黑客工具",
+          "content": "让我试试看...哈！搞定！",
+          "effect": "钥匙不再是问题了。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BLACKFRIDAY",
+      "des": "掉落双十三",
+      "propData": {
+          "title": "双十三",
+          "content": "剁手党的狂欢！",
+          "effect": "商店里所有物品半价！",
+          "suit": ""
+      }
+  },
+  {
+      "title": "LIPSTICK",
+      "des": "掉落口红",
+      "propData": {
+          "title": "口红",
+          "content": "不要浪费！都涂到牙齿上了！",
+          "effect": "所有商店物品将会自动补货。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HARDHAT",
+      "des": "掉落安全帽",
+      "propData": {
+          "title": "安全帽",
+          "content": "安全第一，搬砖第二。",
+          "effect": "你不会受到地形伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "PUMPHEAD",
+      "des": "掉落南瓜头",
+      "propData": {
+          "title": "南瓜头",
+          "content": "你的脾气和这个南瓜一样。",
+          "effect": "当你受伤时会发生爆炸。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "VOFIELD",
+      "des": "掉落绝对领域",
+      "propData": {
+          "title": "绝对领域",
+          "content": "准备迎战！",
+          "effect": "受伤后如果只剩下半颗红心，则掉落护盾。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "THETOWEL",
+      "des": "掉落毛巾",
+      "propData": {
+          "title": "毛巾",
+          "content": "不要恐慌！",
+          "effect": "你受伤后最多只会掉半个护盾！",
+          "suit": "套装：【不朽之魂】红心容器转化为复活次数。每次复活额外掉落一个道具。"
+      }
+  },
+  {
+      "title": "DEVILTRADE",
+      "des": "掉落魔鬼交易",
+      "propData": {
+          "title": "魔鬼交易",
+          "content": "",
+          "effect": "受伤时可能受到双倍伤害，可能无伤。",
+          "suit": "套装：【不朽之魂】红心容器转化为复活次数。每次复活额外掉落一个道具。"
+      }
+  },
+  {
+      "title": "BIGDADDY",
+      "des": "掉落老大哥",
+      "propData": {
+          "title": "老大哥",
+          "content": "听一首深海之中的歌谣？",
+          "effect": "免疫自身产生的爆炸伤害。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "FANATICMASK",
+      "des": "掉落狂热面具",
+      "propData": {
+          "title": "狂热面具",
+          "content": "",
+          "effect": "受到爆炸伤害的时候有概率免疫伤害并回复红心。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "ANCIENTMASK",
+      "des": "掉落远古面具",
+      "propData": {
+          "title": "远古面具",
+          "content": "我不做人了！",
+          "effect": "使用炸弹消灭敌人时,你有一定概率恢复红心。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "FORESTSONIR",
+      "des": "掉落雨林纪念品",
+      "propData": {
+          "title": "雨林纪念品",
+          "content": "",
+          "effect": "消灭一定数量的敌人将会掉落蛋。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "PLAGUEMASK",
+      "des": "掉落瘟疫面具",
+      "propData": {
+          "title": "瘟疫面具",
+          "content": "",
+          "effect": "消灭敌人有概率恢复红心。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DEMONSLAY",
+      "des": "掉落恶魔猎手",
+      "propData": {
+          "title": "恶魔猎手",
+          "content": "",
+          "effect": "消灭一定数量的怪物会获得水晶。",
+          "suit": "套装：【混沌之力】所有需要消耗水晶的主动技能使用时会触发两次效果。"
+      }
+  },
+  {
+      "title": "AIRMEDAL",
+      "des": "掉落皇家空军勋章",
+      "propData": {
+          "title": "皇家空军勋章",
+          "content": "",
+          "effect": "当你在空中时，武器伤害增加。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "POPCORN",
+      "des": "掉落爆米花",
+      "propData": {
+          "title": "爆米花",
+          "content": "啪啪啪",
+          "effect": "所有的子弹会产生爆炸效果。请开始你的表演。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "COLORCROWN",
+      "des": "掉落五彩羽冠",
+      "propData": {
+          "title": "五彩羽冠",
+          "content": "人类从未从历史中汲取到任何经验和教训。",
+          "effect": "子弹消失时有概率放烟花。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "ELASTICGEL",
+      "des": "掉落排斥凝胶",
+      "propData": {
+          "title": "排斥凝胶",
+          "content": "科学的胜利！",
+          "effect": "你的子弹碰到墙壁会随机反弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BUBBLE",
+      "des": "掉落深海泡泡",
+      "propData": {
+          "title": "深海泡泡",
+          "content": "",
+          "effect": "你的子弹多了一层护盾，有概率抵消敌人的子弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DANGERSIGN",
+      "des": "掉落危险标志",
+      "propData": {
+          "title": "危险标志",
+          "content": "你的武器充满了电流！",
+          "effect": "你的所有子弹都带有电属性。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HOTCHILI",
+      "des": "掉落红辣椒",
+      "propData": {
+          "title": "红辣椒",
+          "content": "让你的武器燃烧起来吧！",
+          "effect": "你的所有子弹都带有火属性。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "COOLINGSYS",
+      "des": "掉落水冷系统",
+      "propData": {
+          "title": "水冷系统",
+          "content": "太热了？给你的武器降降温吧！",
+          "effect": "你的所有子弹都带有冰属性。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BADAPPLE",
+      "des": "掉落坏苹果",
+      "propData": {
+          "title": "坏苹果",
+          "content": "就像毒药一样可怕！",
+          "effect": "你的所有子弹都带有毒属性。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GAMMARAY",
+      "des": "掉落伽玛射线",
+      "propData": {
+          "title": "伽玛射线",
+          "content": "没有什么可以阻挡你了！！",
+          "effect": "子弹可以穿透墙壁。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "JELLYBEAN",
+      "des": "掉落多彩糖豆",
+      "propData": {
+          "title": "多彩糖豆",
+          "content": "众多口味任你选择。",
+          "effect": "有概率随机发射元素子弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DEVILLINE",
+      "des": "掉落恶魔热线",
+      "propData": {
+          "title": "恶魔热线",
+          "content": "谁能帮忙把电费给交了？",
+          "effect": "在空中的近战攻击伤害翻倍。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GFIST",
+      "des": "掉落金拳头",
+      "propData": {
+          "title": "金拳头",
+          "content": "",
+          "effect": "使用近战攻击破坏箱子，可以获得1金币。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "KILLERQUEEN",
+      "des": "掉落猎手皇后",
+      "propData": {
+          "title": "猎手皇后",
+          "content": "我要过平静安逸的生活...",
+          "effect": "如果用近战攻击到敌人，那么敌人死后会爆炸。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "MJOLNIR",
+      "des": "掉落雷神之锤",
+      "propData": {
+          "title": "雷神之锤",
+          "content": "蕴含着雷电与风暴的力量。",
+          "effect": "你的近战攻击附带电属性。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "HEADBADN",
+      "des": "掉落忍者护额",
+      "propData": {
+          "title": "忍者护额",
+          "content": "",
+          "effect": "跳跃次数越多，近战伤害越高。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SAITAMA",
+      "des": "掉落普通拳套",
+      "propData": {
+          "title": "普通拳套",
+          "content": "每天100个俯卧撑，100个仰卧起坐，10公里长跑！",
+          "effect": "近战攻击伤害逆天！",
+          "suit": ""
+      }
+  },
+  {
+      "title": "ALIENTOY",
+      "des": "掉落外星玩具",
+      "propData": {
+          "title": "外星玩具",
+          "content": "哔哔哔哔哔。",
+          "effect": "你的炸弹爆炸后，向外发射追踪子弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "PATYPOPPER",
+      "des": "掉落彩带礼炮",
+      "propData": {
+          "title": "彩带礼炮",
+          "content": "节日快乐！",
+          "effect": "你的炸弹爆炸后会产生礼花子弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "FIRECRACKER",
+      "des": "掉落鞭炮",
+      "propData": {
+          "title": "鞭炮",
+          "content": "过年啦！！",
+          "effect": "炸弹爆炸后概率掉落掉落物。（只在战斗中有效）",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "XBOMB",
+      "des": "掉落爆破装置5000",
+      "propData": {
+          "title": "爆破装置5000",
+          "content": "",
+          "effect": "爆炸效果变为X型爆炸。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "SAPPACK",
+      "des": "掉落工程兵背包",
+      "propData": {
+          "title": "工程兵背包",
+          "content": "搞个大新闻？",
+          "effect": "爆炸范围变大，爆炸伤害上升。",
+          "suit": "套装：【钢铁意志】免疫所有的爆炸伤害。"
+      }
+  },
+  {
+      "title": "NANOTECH",
+      "des": "掉落纳米技术"
+  },
+  {
+      "title": "PLANB",
+      "des": "掉落备用方案",
+      "propData": {
+          "title": "备用方案",
+          "content": "钥匙并不是唯一的答案！",
+          "effect": "使用爆炸性道具有概率会打开需要钥匙的锁。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "ACORN",
+      "des": "掉落橡树果",
+      "propData": {
+          "title": "橡树果",
+          "content": "",
+          "effect": "所有的蛋都可以阻挡敌人的子弹。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "DOUBLEYOLK",
+      "des": "掉落双黄蛋",
+      "propData": {
+          "title": "双黄蛋",
+          "content": "",
+          "effect": "你当前蛋的数量增加一倍。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "BLACKRUM",
+      "des": "掉落黑色朗姆酒"
+  },
+  {
+      "title": "DOUGHNUT",
+      "des": "掉落甜甜圈",
+      "propData": {
+          "title": "甜甜圈",
+          "content": "",
+          "effect": "拥有的蛋越多，你能发射的子弹越多。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "LEMONJELLY",
+      "des": "掉落柠檬果冻",
+      "propData": {
+          "title": "柠檬果冻",
+          "content": "",
+          "effect": "每拥有一个蛋，增加一次额外的跳跃机会。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GINGERMAN",
+      "des": "掉落姜饼人",
+      "propData": {
+          "title": "姜饼人",
+          "content": "你忠贞的好伙伴。",
+          "effect": "如果受到致命攻击，那么将牺牲一个蛋。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "SNACKBOX",
+      "des": "掉落零食盒",
+      "propData": {
+          "title": "零食盒",
+          "content": "",
+          "effect": "蛋不再孵化出宠物，而会孵化出随机掉落物。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "GUMBEAR",
+      "des": "掉落小熊软糖",
+      "propData": {
+          "title": "小熊软糖",
+          "content": "开心坏了!",
+          "effect": "所有宠物的攻击伤害提升。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "MARSHMALLOW",
+      "des": "掉落棉花糖",
+      "propData": {
+          "title": "棉花糖",
+          "content": "",
+          "effect": "当你满红心状态时，不会孵出空蛋。",
+          "suit": ""
+      }
+  },
+  {
+      "title": "NINJIACOS",
+      "des": "掉落忍者服饰",
+      "propData": {
+          "title": "忍者服饰",
+          "content": "夜幕中的刺客！",
+          "effect": "增加一次额外的跳跃次数，并增加你的近战伤害。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "TRAVHOOD",
+      "des": "掉落旅人兜帽",
+      "propData": {
+          "title": "旅人兜帽",
+          "content": "你似乎到过无人之地。",
+          "effect": "增加一次额外的跳跃次数。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "WINGEDHAT",
+      "des": "掉落小飞帽",
+      "propData": {
+          "title": "小飞帽",
+          "content": "这是谁的帽子？",
+          "effect": "增加一次额外的跳跃次数。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "SCIAWARD",
+      "des": "掉落科学奖项",
+      "propData": {
+          "title": "科学奖项",
+          "content": "",
+          "effect": "敌人触碰到跳跃印记会产生爆炸。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "FALASHBOOTS",
+      "des": "掉落闪电靴",
+      "propData": {
+          "title": "闪电靴",
+          "content": "",
+          "effect": "所有的跳跃印记都会附带闪电环。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "FLAMINGO",
+      "des": "掉落火烈鸟羽毛",
+      "propData": {
+          "title": "火烈鸟羽毛",
+          "content": "",
+          "effect": "宠物蛋会触碰到跳跃印记发射追踪火球。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "DISCOLIGHT",
+      "des": "掉落舞池灯",
+      "propData": {
+          "title": "舞池灯",
+          "content": "",
+          "effect": "落地时，所有跳跃印记会发射一枚音符追踪子弹。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "OWLHEAD",
+      "des": "掉落猫头鹰头饰",
+      "propData": {
+          "title": "猫头鹰头饰",
+          "content": "",
+          "effect": "每个跳跃印记会增加一个宠物蛋，落地时蛋也会消失。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "MICRPHONE",
+      "des": "掉落麦克风",
+      "propData": {
+          "title": "麦克风",
+          "content": "",
+          "effect": "跳跃印记会发出可以反弹敌人子弹的音波。",
+          "suit": "套装：【疯狂派对】无法获得飞行效果。在空中的跳跃次数越多，跳跃印记产生的效果越强。"
+      }
+  },
+  {
+      "title": "BACK",
+      "des": "回到本层初始房间"
+  },
+  {
+      "title": "OPENDOOR",
+      "des": "打开上锁的门,以防你被锁住"
+  }
+]

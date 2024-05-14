@@ -1,0 +1,37 @@
+<!--pages/suits/suits.wxml-->
+<navigation-bar title="套装" back="{{true}}" color="black" background="#fef9e3"></navigation-bar>
+
+<view class="popupBg" style="display: {{isShowPopup}};" bindtap="closePop">
+  <view class="popup">
+    <view class="popupContent">
+      <image class="popupImg" src="{{selectProp.url}}" mode="aspectFit"/>
+      <view class="popupTitle">{{selectProp.title}}</view>
+      <view class="popupLine"></view>
+      <view wx:if="{{selectProp.content}}" class="popupDesTitle">• {{selectProp.content}}</view>
+      <view wx:if="{{selectProp.effect}}" class="popupEffict">• {{selectProp.effect}}</view>
+      <view wx:if="{{false}}" class="popupSuit">• {{selectProp.suit}}</view>
+    </view>
+  </view>
+</view>
+
+<scroll-view class="list" type="custom" scroll-y bounces="{{false}}" enhanced="{{true}}">
+  <view class="listBg">
+    <view wx:for="{{showList}}" class="item">
+    <view class="titeView">
+      <view class="titleBg">
+        <text class="title">【{{item.title}}】</text>
+      </view>
+      <image class="icon" src="{{item.icon}}" mode="heightFix" />
+    </view>
+    <view class="effect">{{item.effect}}</view>
+    <view class="propsView">
+      <view wx:for="{{item.props}}" wx:for-item="prop" class="propView"
+      data-data="{{prop}}" bind:tap="onPropTap">
+        <image class="propImg" src="{{prop.url}}" mode="heightFix" />
+        <view class="propTitle">{{prop.title}}</view>
+      </view>
+    </view>
+  </view>
+  </view>
+  
+</scroll-view>
