@@ -40,8 +40,8 @@ page {
   margin-top: 15%;
 }
 .itemTitle {
-  color: black;
+  color: #212121;
   margin-top: 1vh;
-  font-family: 'pixel';
-  /* font-size: 11px; */
+  font-size: 17px;
+  font-weight: bold;
 }

@@ -46,7 +46,7 @@
 <scroll-view class="grid" type="custom" scroll-y
 bounces="{{false}}" enhanced="{{true}}">
   <grid-view cross-axis-count="2" cross-axis-gap="4" main-axis-gap="4">
-    <view wx:for="{{showList}}" style="background-color: {{item.bgColor}};" class="item"
+    <view wx:for="{{showList}}" wx:key="unique" style="background-color: {{item.bgColor}};" class="item"
     data-data="{{item}}" bind:tap="onItemTap">
       <view class="itemTitle" style="color: {{item.textColor}};">{{item.title}}</view>
       <view wx:if="{{!item.propData && !item.armData}}" class="itemDes">{{item.des}}</view>

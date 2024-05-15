@@ -54,7 +54,7 @@ Component({
           var finArray = array.map(item => {
             var url = "/images/arms/" + item.title + ".png"
             var encodeUrl = encodeURI(url)
-            return {...item, url: encodeUrl}
+            return {...item, url: url}
           })
           console.log(finArray.length)
           self.setData({

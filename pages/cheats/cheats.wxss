@@ -9,6 +9,7 @@ page {
 .grid {
   padding: 2vh;
   overflow: hidden;
+  width: auto;
   flex: 1;
 }
 .item {
@@ -44,9 +45,8 @@ page {
   text-decoration: underline;
   text-decoration-color: #00a6d8;
 }
-
-
 .popupBg {
+  z-index: 9999;
   position: fixed;
   top: 0;
   left: 0;
@@ -92,6 +92,8 @@ page {
 
 .armDesBg {
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 .armDesTitle {
   margin-top: 1vh;
@@ -130,11 +132,11 @@ page {
   margin-top: 2px;
 }
 .searchView {
-  width: 100%;
-  padding-left: 2vh;
-  padding-top: 2vh;
-  padding-right: 2vh;
-  padding-bottom: 1vh;
+  width: auto;
+  margin-left: 2vh;
+  margin-top: 2vh;
+  margin-right: 2vh;
+  margin-bottom: 1vh;
 }
 .searchBg {
   width: 100%;

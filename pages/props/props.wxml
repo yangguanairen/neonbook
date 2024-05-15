@@ -21,10 +21,10 @@
   </view>
 </view>
 <scroll-view class="list" bounces="{{false}}" enhanced="{{true}}" type="custom" scroll-y>
-  <list-builder list="{{showList}}" child-count="{{showList.length}}" child-height="50px">
+  <view wx:for="{{showList}}" wx:key="unique">
     <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
       <image class="item-icon" src="{{item.url}}"  mode="heightFix"/>
       <text class="item-title">{{item.title}}</text>
     </view>
-  </list-builder>
+  </view>
 </scroll-view>

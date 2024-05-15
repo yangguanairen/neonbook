@@ -8,6 +8,7 @@ page {
 .scroll {
   padding: 2vh;
   overflow: hidden;
+  width: auto;
   flex: 1;
 }
 .flex {
@@ -38,6 +39,8 @@ page {
 }
 .desBg {
   width: 100%;
+  display: flex;
+  flex-wrap: wrap;
 }
 .desTitle {
   margin-top: 1vh;

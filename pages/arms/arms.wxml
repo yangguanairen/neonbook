@@ -10,13 +10,7 @@
 <!-- scroll-view禁用橡皮筋回弹效果
 https://developers.weixin.qq.com/community/develop/article/doc/00008863b582e0843ff0950fd66813 -->
 <scroll-view class="list" type="custom" bounces="{{false}}" enhanced="{{true}}" scroll-y>
-  <!-- <list-builder list="{{showList}}" child-count="{{showList.length}}" child-height="50px">
-    <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
-      <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
-      <text class="item-title">{{item.title}}</text>
-    </view>
-  </list-builder> -->
-  <view wx:for="{{showList}}">
+  <view wx:for="{{showList}}" wx:key="unique">
     <view class="item" data-data="{{item}}" bind:tap="onTap">
       <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
       <text class="item-title">{{item.title}}</text>

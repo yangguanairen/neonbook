@@ -3,8 +3,9 @@
   "projectname": "neonbook",
   "setting": {
     "compileHotReLoad": true,
-    "skylineRenderEnable": true,
-    "urlCheck": false
+    "skylineRenderEnable": false,
+    "urlCheck": false,
+    "bigPackageSizeSupport": true
   },
   "libVersion": "latest"
 }
