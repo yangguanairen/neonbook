@@ -55,14 +55,14 @@ Component({
     readData() {
       var self = this
       fd.readFile({
-        filePath: '/petPages/data/pets.json', 
+        filePath: '/data/pets.json', 
         encoding: 'utf8', 
         position: 0, 
         success: res => {
           var array = JSON.parse(res.data)
           for (var i = 0; i < array.length; i++) {
             var item = array[i]
-            item.url = encodeURI("/petPages/images/pets/" + item.title + ".png")
+            item.url = encodeURI("/images/pets/" + item.title + ".png")
           }
           console.log(array.length)
           self.setData({

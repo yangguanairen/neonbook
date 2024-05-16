@@ -24,7 +24,7 @@
   <grid-view class="grid" cross-axis-count="3" main-axis-gap="8"
   cross-axis-gap="8">
     <view class="item" wx:for="{{showList}}" wx:key="unique" data-data="{{item}}" bind:tap="onTap">
-      <image class="item-icon" src="{{item.url}}"  mode="widthFix"/>
+      <image class="item-icon" src="{{item.url}}" mode="widthFix"/>
       <text class="item-title">{{item.title}}</text>
     </view>
   </grid-view>

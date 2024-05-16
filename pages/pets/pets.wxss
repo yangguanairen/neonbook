@@ -6,13 +6,15 @@ page {
   background-color: #92d2e3;
 }
 .scroll {
-  padding: 1.7vh;
+  padding: 1vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
   overflow: hidden;
   flex: 1;
   width: auto;
 }
 .grid {
-  /* width: auto; */
+  width: auto;
   display: flex;
 }
 .item {
@@ -21,14 +23,14 @@ page {
   flex-wrap: wrap;
   background-color: white;
   border-radius: 16px;
-  /* width: auto; */
+  width: auto;
   height: 0px;
   position: relative;
   padding-bottom: 150%;
-  padding-top: 1vh;
-  padding-left: 1vh;
-  padding-right: 1vh;
-  margin: 0.3vh;
+  padding-top: 2vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  /* margin: 1vh; */
 }
 .item-icon {
   width: 100%;
@@ -36,7 +38,8 @@ page {
 .item-title {
   color: black;
   text-align: center;
-  margin-top: 20%;
+  margin-top: 40%;
+  width: 100%;
 }
 .searchView {
   width: auto;

@@ -22,8 +22,8 @@
 </view>
 <scroll-view class="list" bounces="{{false}}" enhanced="{{true}}" type="custom" scroll-y>
   <view wx:for="{{showList}}" wx:key="unique">
-    <view class="item" slot:item data-data="{{item}}" bind:tap="onTap">
-      <image class="item-icon" src="{{item.url}}"  mode="heightFix"/>
+    <view class="item" data-data="{{item}}" bind:tap="onTap">
+      <image class="item-icon" src="{{item.url}}"  mode="aspectFit"/>
       <text class="item-title">{{item.title}}</text>
     </view>
   </view>

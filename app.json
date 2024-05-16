@@ -5,16 +5,8 @@
     "pages/arms/arms",
     "pages/arms/detail",
     "pages/cheats/cheats",
-    "pages/suits/suits"
-  ],
-  "subpackages": [
-    {
-      "root": "petPages", 
-      "pages": [
-        "pages/pets/pets"
-      ]
-
-    }
+    "pages/suits/suits",
+    "pages/pets/pets"
   ],
   "window": {
     "navigationBarTextStyle": "black",

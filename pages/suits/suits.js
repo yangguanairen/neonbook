@@ -8,7 +8,7 @@ Component({
     selectProp: {},
   },
   methods: {
-    onReady: function() {
+    onLoad: function() {
       this.readData()
     },
     onPropTap(event) {
@@ -24,15 +24,11 @@ Component({
       })
     },
     readData() {
-      // success为闭包
-      var self = this
-      // 应用宝内文件不能有后缀
-      // https://developers.weixin.qq.com/community/develop/doc/000000c93e0100826828d3a695b800?highline=%E8%AF%BB%E5%8F%96%E4%BB%A3%E7%A0%81%E5%8C%85
       fd.readFile({
         filePath: 'data/suits.json', 
         encoding: 'utf8', 
         position: 0, 
-        success(res) {
+        success: res => {
           var array = JSON.parse(res.data)
           for (var i = 0; i < array.length; i++) {
             var item = array[i]
@@ -45,12 +41,11 @@ Component({
             item.props = props
           }
           console.log(array.length)
-          self.setData({
-            showList: array,
-            list: array
+          this.setData({
+            showList: array
           })
         },
-        fail(res) {
+        fail: res => {
           console.error(res)
         }
       })

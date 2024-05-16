@@ -16,7 +16,7 @@ Component({
     },
     gotoPets() {
       wx.navigateTo({
-        url: `/petPages/pages/pets/pets`,
+        url: `/pages/pets/pets`,
       })
     },
     gotoCheats() {

@@ -21,13 +21,13 @@
       <view class="titleBg">
         <text class="title">【{{item.title}}】</text>
       </view>
-      <image class="icon" src="{{item.icon}}" mode="heightFix" />
+      <image class="icon" src="{{item.icon}}" mode="aspectFit" />
     </view>
     <view class="effect">{{item.effect}}</view>
     <view class="propsView">
       <view wx:for="{{item.props}}" wx:key="unique" wx:for-item="prop" class="propView"
       data-data="{{prop}}" bind:tap="onPropTap">
-        <image class="propImg" src="{{prop.url}}" mode="heightFix" />
+        <image class="propImg" lazy-load="true" src="{{prop.url}}" mode="aspectFit" />
         <view class="propTitle">{{prop.title}}</view>
       </view>
     </view>
