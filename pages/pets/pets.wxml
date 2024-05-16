@@ -21,10 +21,9 @@
   </view>
 </view>
 <scroll-view class="scroll" scroll-y type="custom"  bounces="{{false}}" enhanced="{{true}}">
-  <grid-view class="grid" cross-axis-count="3" main-axis-gap="8"
-  cross-axis-gap="8">
+  <grid-view cross-axis-count="3" main-axis-gap="8" cross-axis-gap="8">
     <view class="item" wx:for="{{showList}}" wx:key="unique" data-data="{{item}}" bind:tap="onTap">
-      <image class="item-icon" src="{{item.url}}" mode="widthFix"/>
+      <image class="item-icon" src="{{item.url}}" mode="aspectFit"/>
       <text class="item-title">{{item.title}}</text>
     </view>
   </grid-view>
