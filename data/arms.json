@@ -7,7 +7,7 @@
               "•【主动】随机改变武器属性"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_1.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_1db5296ed0197a99a.gif"
   },
   {
       "title": "哨兵",
@@ -21,7 +21,7 @@
               "•【主动】提高射击速度（只在当前房间内有效）。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_2.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_2c6c6731ef1c1a9a9.gif"
   },
   {
       "title": "空气枪",
@@ -31,7 +31,7 @@
               "•【主动】在空中使用可以减慢下落速度。无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_3.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_350b07ac2517f8c40.gif"
   },
   {
       "title": "渡鸦",
@@ -41,7 +41,7 @@
               "•【主动】产生一次自爆。消耗半个红心和1水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_4.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_40d49e6014405b47a.gif"
   },
   {
       "title": "黑寡妇",
@@ -51,7 +51,7 @@
               "•【主动】向前翻滚一小段距离。无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_5.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_5fb176f0baa60aaef.gif"
   },
   {
       "title": "黑暗射线",
@@ -65,7 +65,7 @@
               "•【主动】向前瞬移一小段距离，无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_6.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_6ca8fa03dd1557948.gif"
   },
   {
       "title": "毁灭者",
@@ -75,7 +75,7 @@
               "•【被动】消灭敌人有概率获得愤怒精灵。\n•【主动】储存愤怒精灵，使用后释放它们，消耗1水晶。（武器等级越高容量越大）。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_7.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_7ff82a87c6bc83cc4.gif"
   },
   {
       "title": "饥荒",
@@ -93,7 +93,7 @@
               "•【主动】召唤一个木桶。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_8.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_800721f65f27eb8ff.gif"
   },
   {
       "title": "火吻",
@@ -103,7 +103,7 @@
               "•【被动】红心越多，你发射的子弹数量越多。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_9.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_938ba86e6fc21271e.gif"
   },
   {
       "title": "熔炉",
@@ -113,7 +113,7 @@
               "•【主动】你感觉充满了力量！可以把木桶和箱子举起来！无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_10.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_10448e0cfe4fcac590.gif"
   },
   {
       "title": "霜火",
@@ -123,7 +123,7 @@
               "•【主动】 蓄力投掷出冰炸弹。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_11.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_11bb052abe3397923b.gif"
   },
   {
       "title": "巨兽",
@@ -133,7 +133,7 @@
               "• 无技能"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_12.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_12f14c665bcbbddb80.gif"
   },
   {
       "title": "金色波纹",
@@ -143,7 +143,7 @@
               "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_13.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_13c93f0624a913258d.gif"
   },
   {
       "title": "黄金萨姆",
@@ -153,7 +153,7 @@
               "•【主动】怪物死亡后获得红包，使用后根据红包数量获得金币奖励。（武器等级越高，能获得的信封越多）。消耗1水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_14.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_1475fc6f30a9e4057d.gif"
   },
   {
       "title": "守护者",
@@ -163,7 +163,7 @@
               "•【被动】消灭敌人有概率获得守护精灵。\n•【主动】储存防护精灵，使用后释放精灵，消耗1水晶。（武器等级越高容量越大）。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_15.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_15aba73851280427df.gif"
   },
   {
       "title": "鹰眼",
@@ -173,7 +173,7 @@
               "•【被动】被子弹命中的敌人会被标记。\n•【主动】玩家可以两颗水晶引爆它们，造成高额伤害。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_16.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_16ca24eff195b678e0.gif"
   },
   {
       "title": "懒洋洋",
@@ -183,7 +183,7 @@
               "•【被动】当你的子弹击中金币时，它可能会双倍，或消失。\n•【主动】掉落随机金币。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_17.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_17455df3ac363ce96b.gif"
   },
   {
       "title": "审判",
@@ -197,7 +197,7 @@
               "•【主动】获得一个钥匙.消耗3颗水晶."
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_18.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_18bb5b220d096546da.gif"
   },
   {
       "title": "钥匙枪",
@@ -207,7 +207,7 @@
               "• 无技能"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_19.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_19f6d599777e2d43ce.gif"
   },
   {
       "title": "光之舞",
@@ -225,7 +225,7 @@
               "•【被动】这个武器造成近战伤害。\n•【主动】在天空中追寻浪漫，无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_20.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_200b0e7d6c59c241f4.gif"
   },
   {
       "title": "摇篮曲",
@@ -239,7 +239,7 @@
               "•【主动】获得一个不会孵化的银蛋(上限为武器等级)。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_21.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_219951642fd85c708c.gif"
   },
   {
       "title": "信使",
@@ -253,7 +253,7 @@
               "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_22.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_2269582ddf679b04ae.gif"
   },
   {
       "title": "流星",
@@ -277,7 +277,7 @@
               "•【主动】掉落随机掉落物。消耗1水晶和20金币。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_24.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_24a5b6da935e203790.gif"
   },
   {
       "title": "噪波",
@@ -291,7 +291,7 @@
               "•【主动】召唤一个梯子。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_25.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_2517b105ea1701f953.gif"
   },
   {
       "title": "旅客",
@@ -301,7 +301,7 @@
               "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_26.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_26235357890036b05e.gif"
   },
   {
       "title": "幻痛",
@@ -311,7 +311,7 @@
               "•【主动】时间减慢，无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_27.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_2753cb52644e2a8c87.gif"
   },
   {
       "title": "玩具枪",
@@ -329,7 +329,7 @@
               "•【主动】把当前房间内的所有道具置换成数个掉落物。消耗3水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_28.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_28003b2304ee22cac5.gif"
   },
   {
       "title": "彩虹",
@@ -343,7 +343,7 @@
               "•【被动】你的蛋永远不会孵化。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_29.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_295f8d678f4a034471.gif"
   },
   {
       "title": "反叛者",
@@ -353,7 +353,7 @@
               "•【主动】提高你的武器等级（只在当前房间内有效）。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_30.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_300ca37c3682ad74cc.gif"
   },
   {
       "title": "红龙",
@@ -363,7 +363,7 @@
               "• 无技能"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_31.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_313e1c3301e4a28c22.gif"
   },
   {
       "title": "银月",
@@ -377,7 +377,7 @@
               "•【主动】立即下坠，造成冲击伤害。无消耗。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_33.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_334364ccab25e69529.gif"
   },
   {
       "title": "欢乐颂",
@@ -395,7 +395,7 @@
               "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_34.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_3459485189323a5223.gif"
   },
   {
       "title": "灵魂使者",
@@ -405,7 +405,7 @@
               "•【被动】这个武器造成近战伤害\n•【主动】纯净之光！使用后暂时性免疫伤害。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_35.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_3553d3a3879cdc4d47.gif"
   },
   {
       "title": "星爆",
@@ -415,7 +415,7 @@
               "• 无技能"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_36.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_36b237cacd8b3efc16.gif"
   },
   {
       "title": "夏天",
@@ -425,7 +425,7 @@
               "•【主动】召唤一个木箱。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_37.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_3786385b262504e58d.gif"
   },
   {
       "title": "雨燕",
@@ -439,7 +439,7 @@
               "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_38.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_382a9ca8bb00d47e98.gif"
   },
   {
       "title": "凶巴巴",
@@ -449,7 +449,7 @@
               "•【主动】获得一个气球，让你飞起来！（只在当前房间内有效）。消耗3水晶"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_39.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_390568c7b33b846f42.gif"
   },
   {
       "title": "第八色",
@@ -463,7 +463,7 @@
               "•【被动】每次武器等级提升，增加一个额外水晶容器并回满水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_40.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_40210f71f6b07d9a15.gif"
   },
   {
       "title": "超级炮",
@@ -473,7 +473,7 @@
               "• 无技能"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_41.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_415093468b51084a0d.gif"
   },
   {
       "title": "雷电",
@@ -487,7 +487,7 @@
               "•【被动】武器造成近战伤害！\n•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_42.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_42997214bfdc774308.gif"
   },
   {
       "title": "咸鱼",
@@ -501,7 +501,7 @@
               "•【主动】不是所有人都能买得起！花费25金币和一个水晶获得一个蛋。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_43.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_43b84f4fa8ab8a6e5b.gif"
   },
   {
       "title": "双子",
@@ -511,7 +511,7 @@
               "•【主动】提高武器伤害（只在当前房间内有效）。消耗2水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_44.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_4457627bc5c3eedfcb.gif"
   },
   {
       "title": "漩涡",
@@ -520,8 +520,7 @@
               "• 为了荣耀！为了亚特兰蒂斯！",
               "•【主动】掉落随机金币。消耗2水晶和半个红心。"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_45.gif"
+      ]
   },
   {
       "title": "妖狐",
@@ -531,7 +530,7 @@
               "•【主动】发射一个强大的能量球。敌人如果被能量球消灭会掉落水晶。消耗1水晶。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_46.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_469b3fe38ae6d84f89.gif"
   },
   {
       "title": "恶狼",
@@ -540,8 +539,7 @@
               "• 血债血偿！",
               "•【被动】消灭敌人获得伤害提升，受伤后重置。"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/"
+      ]
   },
   {
       "title": "矩阵",
@@ -551,7 +549,7 @@
               "•【主动+被动】蓄力发射一个信号弹，并使用技能传送到它的位置。"
           ]
       ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_47.gif"
+      "gifUrl": "https://cdnjson.com/images/2024/05/16/weapon_47bce4887588263f98.gif"
   },
   {
       "title": "憎恶",
@@ -564,8 +562,7 @@
               "• 蓄力发射愤怒精灵。",
               "•【主动】使用后永久提升你的武器等级。消耗5水晶和50金币"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_49.gif"
+      ]
   },
   {
       "title": "黄金精神",
@@ -574,8 +571,7 @@
               "• 人类的赞歌是勇气的赞歌！",
               "•【被动】武器造成近战伤害！\n•【主动】欧拉欧拉欧拉！（一段时间内增加子弹数量，无消耗"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_50.gif"
+      ]
   },
   {
       "title": "新人类",
@@ -584,8 +580,7 @@
               "• 左边的弹幕太薄了！你在干嘛！",
               "•【主动】放出一组浮游炮！"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_51.gif"
+      ]
   },
   {
       "title": "星辰",
@@ -594,8 +589,7 @@
               "• 微微闪烁着温暖的光芒。",
               "•【主动】对房间内所有敌人造成一次伤害。消耗2水晶。（武器等级越高，伤害越高。）"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_52.gif"
+      ]
   },
   {
       "title": "老猎人",
@@ -604,8 +598,7 @@
               "• 粉碎一切！",
               "•【被动】武器造成近战伤害！\n•【主动】留下一片旋转电锯。消耗3水晶。"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_53.gif"
+      ]
   },
   {
       "title": "白日梦",
@@ -614,8 +607,7 @@
               "• 呼呼呼呼呼。",
               "•【主动】让时间缓慢，无消耗。"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_54.gif"
+      ]
   },
   {
       "title": "蝴蝶刀",
@@ -624,7 +616,6 @@
               "• 迎接华丽的凋零",
               "•【被动】武器造成近战伤害！\n•【主动】受伤或消灭怪物积攒能量，消耗能量获得一个获得一个持续数秒的一次性护盾！"
           ]
-      ],
-      "gifUrl": "https://roguelike.icu/nihongshenyuan/img/weapon_55.gif"
+      ]
   }
 ]

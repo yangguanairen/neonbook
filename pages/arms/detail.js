@@ -15,21 +15,39 @@ Component({
       this.gifIsExists(item.gifUrl)
     },
     gifIsExists(url) {
-      var self = this
-      wx.downloadFile({
-        url: url,
-        header: {
-          "Accept-Encoding": "gzip, deflate, br, zstd"
+      if (!url) return
+      var parts = url.split('/')
+      const filename = parts[parts.length - 1]
+      if (!filename.endsWith(".gif")) return
+      var filePath = `${wx.env.USER_DATA_PATH}/${filename}`
+      wx.getFileSystemManager().access({
+        path: filePath, 
+        success: () => {
+          this._loadGif(filePath)
+          console.log("从本地加载了动画, " + filePath)
         },
-        success (res) {
-          if (res.statusCode === 200) {
-            self.setData({gifPath: res.tempFilePath})
-          }
-        },
-        fail (res) {
-          console.log(res)
+        fail: () => {
+          this._downloadGif(url, filePath)
+          console.log("从网络加载了动画, " + url)
         }
       })
     },
+    _downloadGif(url, filePath) {
+      wx.downloadFile({
+        url: url,
+        success: res => {
+          wx.getFileSystemManager().saveFile({
+            tempFilePath: res.tempFilePath, 
+            filePath,
+            success: res => {
+              this._loadGif(res.savedFilePath)
+            }
+          })
+        }
+      })
+    },
+    _loadGif(gifPath) {
+      this.setData({gifPath: gifPath})
+    }
   }
 })
